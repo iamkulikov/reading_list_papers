@@ -29,11 +29,27 @@ RBA
 
 ## 2019
 
+### ["Fiscal space and the aftermath of financial crises: how it matters and why", Christina D. Romer,  David H. Romer](https://www.brookings.edu/wp-content/uploads/2019/03/Fiscal-Space-and-the-Aftermath-of-Financial-Crises.pdf)
+
+Суверены, менее нагруженные долгом, фактически более сильно реагируют бюджетной политикой на финансовые кризисы (только OECD, 1980-2017). Данные по мотивации austerity в конкретных эпизодах.
+
 ## 2018
+
+### ["Экономический рост в России с учетом демографических изменений и вклада человеческого капитала", Акиндинова Н.В., Чекина К.С., Яркин А.М.](https://ej.hse.ru/data/2017/12/28/1160681432/%D0%90%D0%BA%D0%B8%D0%BD%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0.pdf)
+
+Хороший growth accounting для России. **Вклад TFP получился около 0, так как можно разложить на человеческий капитал и их загрузку факторов.** Другой вопрос, что нужно ли загрузку факторов целиком относить на циклическую часть роста, или это вопрос времени залипания.
 
 ## 2017
 
+### ["China's GDP growth may be understated", Hunter Clark, Maxim Pinkovskiy, Xavier Sala-i-Martin](https://www.nber.org/system/files/working_papers/w23323/w23323.pdf)
+
+Вывод, противоположный традиционному о переоцененности. Обзор прокси для экономической активности. **Используют данные из спутниковых снимков.**
+
 ## 2016
+
+### ["The Facts of Economic Growth. Handbook of Macroeconomics, Volume 2A", C.I. Jones](https://web.stanford.edu/~chadj/facts.pdf)
+
+Обзор стилизованных фактов об экономическом росте. Достаточно современный, но без особых открытий. Хорошие ссылки.
 
 ## Лучшее из более ранних
 
