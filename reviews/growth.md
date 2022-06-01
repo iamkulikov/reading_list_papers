@@ -10,6 +10,10 @@
 
 Вывод, противоположный традиционному о переоцененности. Обзор прокси для экономической активности. **Используют данные из спутниковых снимков.**
 
+### ["A Forensic Examination of China’s National Accounts", Chen, Chen, Hsieh, Song](https://www.brookings.edu/wp-content/uploads/2019/03/BPEA-2019-Forensic-Analysis-China.pdf)
+
+Китай оверрепортил экономический рост в 2008-2016 годах на by 1-1.7 пп (или недокорректировал региональные данные). Обоснование - налоговый прокси (НДС) и индекс.
+
 ### ["The Facts of Economic Growth. Handbook of Macroeconomics, Volume 2A", C.I. Jones](https://web.stanford.edu/~chadj/facts.pdf)
 
 Обзор стилизованных фактов об экономическом росте. Достаточно современный, но без особых открытий. Хорошие ссылки.
