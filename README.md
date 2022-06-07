@@ -20,14 +20,27 @@ RBA
 
 Найти что-то по Input-Output
 
-Ванину про революции положить
+Ванину про революции положить + Маркевич
 
 По моделям методики разложить
 
+Связь распределений
+
+Отсортировать статьи с работы
+
+Эконометрику сделать отдельно
+
+Описать уже скачанное
 
 Скачать pdf и разложить по папкам
 
+
+
 ## 2022
+
+### ["Экономический рост: Нобелевская премия 2018 года и уроки для России" О. А. Замулин, К. И. Сонин](https://publications.hse.ru/mirror/pubs/share/direct/231355202)
+
+**Обзорная статья об эволюции идей при моделировании экономического роста**: Солоу, Рамсей, OLG, AK, Ромер, Нордхаус, шумпетерианские (Агийон), объединенная (Галор, Уайл), Асемоглу. Использовать для заполнения пробелов по ссылкам. Про unified growth не знал. Агийон - обоснование негативного влияния цикличности на средний рост: рецессия подавляет технический прогресс, а бум не стимулирует (когда финрынки слабые).
 
 ### ["Three World Wars: Fiscal-Monetary Consequences", Georege J. Hall, Thomas J. Sargent](https://www.minneapolisfed.org/~/media/assets/events/2021/monetary-fiscal-interactions-40-years-after-unpleasant-monetarist-arithmetic/sargent-paper.pdf?la=en)
 
@@ -45,12 +58,25 @@ RBA
 
 ## 2020
 
+### [“Economic crises and mortality among the elderly. Evidence from two Russian crises”, Margarita Khvan, Elizaveta Smorodenkova, Evgeny Yakovlev](https://www.nes.ru/files/Preprints-resh/WP266.pdf)
+
+Повышается на 3% при падении ВВП на 10%. Распад СССР и кризис 2008 года.
+
+### ["The Human Capital Project", World Bank Group](https://nonews.co/wp-content/uploads/2021/09/THCI2020.pdf)
+
 ## 2019
 
+### ["Should we care? The economic effects of financial sanctions", Pestova, Mamonov](https://helda.helsinki.fi/bof/bitstream/handle/123456789/16219/dp1319.pdf?sequence=3)
+
+Оценка эффекта: -1.2% к росту в 2014-2015 (гоняли BVAR). 
 
 ### ["China’s overseas lending", Horn, Reinhart, Trebesch](https://www.ifw-kiel.de/fileadmin/Dateiverwaltung/IfW-Publications/Christoph_Trebesch/KWP_2132.pdf)
 
 **Китай - крупнейший официальный кредитор**, но условия часто рыночные. Текст к базе данных долгов перед Китаем.
+
+### ["Illuminating economic growth", Yingyyao Hu, Jiaxiong Yao](http://www.econ2.jhu.edu/people/hu/paper_HUandYAO.pdf)
+
+Данные по ночному освещению как прокси для роста ВВП на душу в бедных странах. В зависимости от уровня благосостояния эластичность освещенности по ВВП: 0 - 2,3. Чем богаче, тем меньше, что логично.
 
 ### ["A Forensic Examination of China’s National Accounts", Chen, Chen, Hsieh, Song](https://www.brookings.edu/wp-content/uploads/2019/03/BPEA-2019-Forensic-Analysis-China.pdf)
 
@@ -74,11 +100,20 @@ RBA
 
 Хорошие карты и построен **граф пассажирских перевозок всеми видами транспорта**, включая личные авто. Граф можно как-то использовать. 70% пассажирских поездок не учитываются в статистике. Оценки вклада в рост, но такие себе. 
 
+### ["The atlas of economic complexity. Mapping paths to prosperity", Hausman, Hidalgo et al](https://oec.world/pdf/AtlasOfEconomicComplexity_Part_I.pdf)
+
+### ["The economics of language", Victor Ginsburgh, Shlomo Weber]()
+
+
 ## 2017
 
 ### ["China's GDP growth may be understated", Hunter Clark, Maxim Pinkovskiy, Xavier Sala-i-Martin](https://www.nber.org/system/files/working_papers/w23323/w23323.pdf)
 
 Вывод, противоположный традиционному о переоцененности. Обзор прокси для экономической активности. **Используют данные из спутниковых снимков.**
+
+### ["Machine learning at central banks", Chakraboty, Joseph, BoE](https://www.bankofengland.co.uk/working-paper/2017/machine-learning-at-central-banks)
+
+Обзор методов и примеров применения. Полезно, как набор ссылок.
 
 ## 2016
 
@@ -97,6 +132,14 @@ RBA
 ### ["«Дороги, которые мы выбираем»: перемещения на внешнем и внутреннем рынках труда", Гимпельсон В.Е., Капелюшников Р.И., Шарунина А.В.](https://www.hse.ru/data/2016/02/29/1125640811/WP3_2016_02_f.pdf)
 
 Данные РМЭЗ – ВШЭ за 2006–2013 гг.: вертикальное движение работников внутри фирм vs горизонтальное перемещение между работодателями. Интенсивность внешней мобильности была почти втрое выше внутренней. Постепенно мобильность в обеих формах ослабевала. Мужчины в целом динамичнее женщин, молодежь мобильнее пожилых, а работники с высшим образованием «стабильнее», чем не имеющие оного.
+
+### ["Beyond GDP? Welfare across countries and time", C.I. Jones, P.J. Klenow](https://web.stanford.edu/~chadj/JonesKlenowAER2016.pdf)
+
+Предлагают меру благосостояния на основе потребления, времени отдыха, смертности и неравенства. По ней Европа и США ближе друг к другу, а развивающаяся Азия догнала слабее.
+
+### ["Quantitative Easing: Evolution of economic thinking as it happened on Vox", Wouter den Haan](https://voxeu.org/content/quantitative-easing-evolution-economic-thinking-it-happened-vox)
+
+Сборник статей о том, как придумывали и применяли QE в США и Европе. Не осилил, но для уточнения фактов потенциально полезно.
 
 ## Лучшее из более ранних
 
