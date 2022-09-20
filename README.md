@@ -32,6 +32,7 @@ RBA
 
 ## 2022
 
+### ["A statistical explanation of Dunning-Krueger effect", Magnus J., Peresetsky A.](https://www.nes.ru/files/Preprints-resh/WP286.pdf)
 
 ### ["New Russian Economic History", Zhuravskaya E., Guriev S., Markevich A.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962960)
 
@@ -56,6 +57,7 @@ RBA
 Модификация QPM с cap controls?
 
 
+
 ## 2021
 
 ### ["Управление ликвидностью банковского сектора и процентными ставками денежного рынка, Банк России"](https://www.cbr.ru/StaticHtml/File/102087/Liquidity.pdf)
@@ -65,6 +67,12 @@ RBA
 
 ### ["Inflation Dynamics: Dead, Dormant, or Determined Abroad?", Forbes K.J.](https://www.brookings.edu/bpea-articles/inflation-dynamics-dead-dormant-or-determined-abroad/)
 
+### ["What are the most important statistical ideas of the past 50 years?", Gelman A., Vehtari A.](http://www.stat.columbia.edu/~gelman/research/unpublished/stat50.pdf)
+
+### ["Sins of Omission and the Practice of Economics", Akerlof G.](https://www.aeaweb.org/articles?id=10.1257/jel.20191573)
+
+
+
 ## 2020
 
 ### [“Economic crises and mortality among the elderly. Evidence from two Russian crises”, Margarita Khvan, Elizaveta Smorodenkova, Evgeny Yakovlev](https://www.nes.ru/files/Preprints-resh/WP266.pdf)
@@ -72,6 +80,9 @@ RBA
 Повышается на 3% при падении ВВП на 10%. Распад СССР и кризис 2008 года.
 
 ### ["The Human Capital Project", World Bank Group](https://nonews.co/wp-content/uploads/2021/09/THCI2020.pdf)
+
+### ["Сколько стоят контрсанкции: анализ благосостояния", Волчкова Н., Кузнецова П.](https://www.econorus.org/repec/journl/2019-43-173-183r.pdf)
+
 
 
 ## 2019
@@ -100,6 +111,8 @@ RBA
 
 Качественное разложение 18 рецессий по пяти "причинам": промышленность, нефть, монетарное (инфляция + ужесточение), финансы, фискальное. Методики мало, но само деление любопытное.
 
+
+
 ## 2018
 
 ### ["Экономический рост в России с учетом демографических изменений и вклада человеческого капитала", Акиндинова Н.В., Чекина К.С., Яркин А.М.](https://ej.hse.ru/data/2017/12/28/1160681432/%D0%90%D0%BA%D0%B8%D0%BD%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0.pdf)
@@ -117,6 +130,8 @@ RBA
 ### ["Who is Paying for the Trade War with China?", Zoller-Rydzek B., Felbermayr G.](https://www.econpol.eu/publications/policy_brief_11)
 
 
+
+
 ## 2017
 
 ### ["China's GDP growth may be understated", Hunter Clark, Maxim Pinkovskiy, Xavier Sala-i-Martin](https://www.nber.org/system/files/working_papers/w23323/w23323.pdf)
@@ -128,6 +143,12 @@ RBA
 Обзор методов и примеров применения. Полезно, как набор ссылок.
 
 ### "Декомпозиция темпов роста ВВП России В 1999—2014 годах", Синельников-Мурылев С., Дробышевский С., Казакова М.
+
+### ["Quantitative Easing. Evolution of economic thinking as it happened on Vox", Wouter J.D.H.](https://cepr.org/publications/books-and-reports/quantitative-easing-evolution-economic-thinking-it-happened-vox)
+
+### ["Diversified development. Making the most of natural resources in Eurasia", WB]()
+
+
 
 
 ## 2016
@@ -157,6 +178,9 @@ RBA
 Сборник статей о том, как придумывали и применяли QE в США и Европе. Не осилил, но для уточнения фактов потенциально полезно.
 
 ### ["Global Trade Plateaus, The 19th Global Trade Alert Report", Evenett S.J., Fritz J.](https://www.globaltradealert.org/reports/15)
+
+
+
 
 ## Лучшее из более ранних
 

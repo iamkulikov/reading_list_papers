@@ -2,7 +2,17 @@
 
 [<< Все статьи](../README.md)
 
+### ["What are the most important statistical ideas of the past 50 years?", Gelman A., Vehtari A.](http://www.stat.columbia.edu/~gelman/research/unpublished/stat50.pdf)
+
+### ["A statistical explanation of Dunning-Krueger effect", Magnus J., Peresetsky A.](https://www.nes.ru/files/Preprints-resh/WP286.pdf)
+
 ### ["The atlas of economic complexity. Mapping paths to prosperity", Hausman, Hidalgo et al](https://oec.world/pdf/AtlasOfEconomicComplexity_Part_I.pdf)
 
 ### ["The Human Capital Project", World Bank Group](https://nonews.co/wp-content/uploads/2021/09/THCI2020.pdf)
+
+### ["Sins of Omission and the Practice of Economics", Akerlof G.](https://www.aeaweb.org/articles?id=10.1257/jel.20191573)
+
+### [“The Well-meaning Economist”, Adam Gorajek](https://www.rba.gov.au/publications/rdp/2019/pdf/rdp2019-08.pdf)
+
+Расширенное понимание среднего с примерами
 
