@@ -16,3 +16,4 @@
 
 Расширенное понимание среднего с примерами
 
+### ["PPP Calculation and Estimation", WB](https://www.worldbank.org/en/programs/icp/brief/methodology-calculation)

@@ -22,6 +22,8 @@ RBA
 
 Отсортировать статьи с работы
 
+Что-то базовое про арбитраж
+
 Эконометрику сделать отдельно
 
 По ожиданиям переименовать и заложить в тему, но не корень
@@ -63,6 +65,8 @@ RBA
 ### ["Управление ликвидностью банковского сектора и процентными ставками денежного рынка, Банк России"](https://www.cbr.ru/StaticHtml/File/102087/Liquidity.pdf)
 Дотошное описание того, как может ЦБ влиять на остатки банков на коррсчетах. Разбор на балансах всех основных понятий: ликвидность, автономные факторы, операции управления, дефицит и профицит. Сводится к тому, что это все для поддержания рыночных ставок около ключевой и само по себе на кредитование не влияет.
 
+### [«Фиатные деньги», В. Грищенко](https://www.cbr.ru/Content/Document/File/79860/analytic_note_20190829_ddkp.pdf)
+
 ### ["How Could Russia Have Developed without the Revolution of 1917?", Korolev I.](https://www.jstor.org/stable/10.15609/annaeconstat2009.144.0075)
 
 ### ["Inflation Dynamics: Dead, Dormant, or Determined Abroad?", Forbes K.J.](https://www.brookings.edu/bpea-articles/inflation-dynamics-dead-dormant-or-determined-abroad/)
@@ -82,6 +86,14 @@ RBA
 ### ["The Human Capital Project", World Bank Group](https://nonews.co/wp-content/uploads/2021/09/THCI2020.pdf)
 
 ### ["Сколько стоят контрсанкции: анализ благосостояния", Волчкова Н., Кузнецова П.](https://www.econorus.org/repec/journl/2019-43-173-183r.pdf)
+
+### [“The enduring link between demography and inflation”, Juselius, Takats](https://www.bis.org/publ/work722.htm)
+
+### [“Secular drivers of the global real interest rate”, Rachel, Smith](https://www.bankofengland.co.uk/working-paper/2015/secular-drivers-of-the-global-real-interest-rate)
+
+### ["Money in the modern economy: an introduction", Mcleay M., Radia A., Thomas R.](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-in-the-modern-economy-an-introduction)
+
+### ["Money creation in the modern economy", Mcleay M., Radia A., Thomas R.](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy)
 
 
 
@@ -179,6 +191,7 @@ RBA
 
 ### ["Global Trade Plateaus, The 19th Global Trade Alert Report", Evenett S.J., Fritz J.](https://www.globaltradealert.org/reports/15)
 
+### ["PPP Calculation and Estimation", WB](https://www.worldbank.org/en/programs/icp/brief/methodology-calculation)
 
 
 
