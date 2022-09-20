@@ -2,19 +2,15 @@
 
 По году прочтения: [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [Лучшее из более ранних](#лучшее-из-более-ранних)
 
-По темам: [Макромодели](reviews/models.md), [Методологии и статистика](reviews/meth.md), [Государство](reviews/fiscal.md), [Демография](reviews/demogr.md), [Рынок труда](reviews/labor.md), [Кризисы](reviews/crisis.md), [Экономический рост](reviews/growth.md), [Инфляция](reviews/inflation.md), [Денежное обращение и ДКП](reviews/money.md), [Ожидания](reviews/expect.md), [Финстресс](reviews/FSI.md), [Глобальная торговля](reviews/trade.md), [Транспорт](reviews/transport.md), [Эконометрика](reviews/econometrics.md), [Природные ресурсы](reviews/nature.md), [Санкции](reviews/sanctions.md), [История](reviews/history.md), [ЦБ лучшее](reviews/cbr.md), [Фан](reviews/fun.md), [Написанное мной](reviews/my.md)
+По темам: [Макромодели](reviews/models.md), [Методологии и статистика](reviews/meth.md), [Государство](reviews/fiscal.md), [Демография](reviews/demography.md), [Рынок труда](reviews/labor.md), [Кризисы](reviews/crisis.md), [Экономический рост](reviews/growth.md), [Инфляция](reviews/inflation.md), [Денежное обращение и ДКП](reviews/money.md), [Ожидания](reviews/expect.md), [Финстресс](reviews/FSI.md), [Глобальная торговля](reviews/trade.md), [Транспорт](reviews/transport.md), [Эконометрика](reviews/econometrics.md), [Природные ресурсы](reviews/nature.md), [Санкции](reviews/sanctions.md), [История](reviews/history.md), [ЦБ лучшее](reviews/cbr.md), [Фан](reviews/fun.md), [Написанное мной](reviews/my.md)
 
 ## Надо сделать
 
 RBA
 
-Ссылки из полного отчета по РФ (величина госсектора)
-
 Ссылки по финстрессу
 
 Ссылки из блога Шибанова
-
-Ссылки из тренинга моего
 
 СНС, BOP и росстатовские детали
 
@@ -28,11 +24,16 @@ RBA
 
 Эконометрику сделать отдельно
 
+По ожиданиям переименовать и заложить в тему, но не корень
+
 Доописать уже скачанное в корне и доразложить по темам
 
 
 
 ## 2022
+
+
+### ["New Russian Economic History", Zhuravskaya E., Guriev S., Markevich A.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962960)
 
 ### ["Distortions in Macroeconomics" O. Blanchard](https://www.piie.com/system/files/documents/blanchard20170618.pdf)
 
@@ -51,6 +52,7 @@ RBA
 Расширенное понимание среднего с примерами
 
 ### [“Квартальная прогнозная модель России”, Андрей Орлов](https://cbr.ru/Content/Document/File/118791/inf_note_feb_2521.pdf)
+
 Модификация QPM с cap controls?
 
 
@@ -59,6 +61,10 @@ RBA
 ### ["Управление ликвидностью банковского сектора и процентными ставками денежного рынка, Банк России"](https://www.cbr.ru/StaticHtml/File/102087/Liquidity.pdf)
 Дотошное описание того, как может ЦБ влиять на остатки банков на коррсчетах. Разбор на балансах всех основных понятий: ликвидность, автономные факторы, операции управления, дефицит и профицит. Сводится к тому, что это все для поддержания рыночных ставок около ключевой и само по себе на кредитование не влияет.
 
+### ["How Could Russia Have Developed without the Revolution of 1917?", Korolev I.](https://www.jstor.org/stable/10.15609/annaeconstat2009.144.0075)
+
+### ["Inflation Dynamics: Dead, Dormant, or Determined Abroad?", Forbes K.J.](https://www.brookings.edu/bpea-articles/inflation-dynamics-dead-dormant-or-determined-abroad/)
+
 ## 2020
 
 ### [“Economic crises and mortality among the elderly. Evidence from two Russian crises”, Margarita Khvan, Elizaveta Smorodenkova, Evgeny Yakovlev](https://www.nes.ru/files/Preprints-resh/WP266.pdf)
@@ -66,6 +72,7 @@ RBA
 Повышается на 3% при падении ВВП на 10%. Распад СССР и кризис 2008 года.
 
 ### ["The Human Capital Project", World Bank Group](https://nonews.co/wp-content/uploads/2021/09/THCI2020.pdf)
+
 
 ## 2019
 
@@ -107,6 +114,8 @@ RBA
 
 ### ["The economics of language", Victor Ginsburgh, Shlomo Weber]()
 
+### ["Who is Paying for the Trade War with China?", Zoller-Rydzek B., Felbermayr G.](https://www.econpol.eu/publications/policy_brief_11)
+
 
 ## 2017
 
@@ -117,6 +126,9 @@ RBA
 ### ["Machine learning at central banks", Chakraboty, Joseph, BoE](https://www.bankofengland.co.uk/working-paper/2017/machine-learning-at-central-banks)
 
 Обзор методов и примеров применения. Полезно, как набор ссылок.
+
+### "Декомпозиция темпов роста ВВП России В 1999—2014 годах", Синельников-Мурылев С., Дробышевский С., Казакова М.
+
 
 ## 2016
 
@@ -143,6 +155,8 @@ RBA
 ### ["Quantitative Easing: Evolution of economic thinking as it happened on Vox", Wouter den Haan](https://voxeu.org/content/quantitative-easing-evolution-economic-thinking-it-happened-vox)
 
 Сборник статей о том, как придумывали и применяли QE в США и Европе. Не осилил, но для уточнения фактов потенциально полезно.
+
+### ["Global Trade Plateaus, The 19th Global Trade Alert Report", Evenett S.J., Fritz J.](https://www.globaltradealert.org/reports/15)
 
 ## Лучшее из более ранних
 
