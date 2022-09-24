@@ -16,4 +16,8 @@
 
 Расширенное понимание среднего с примерами
 
+### ["Manual on Government Deficit and Debt", Eurostat](https://ec.europa.eu/eurostat/documents/3859598/10042108/KS-GQ-19-007-EN-N.pdf/5d6fc8f4-58e3-4354-acd3-a29a66f2e00c)
+
 ### ["PPP Calculation and Estimation", WB](https://www.worldbank.org/en/programs/icp/brief/methodology-calculation)
+
+

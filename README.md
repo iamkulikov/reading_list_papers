@@ -2,7 +2,7 @@
 
 По году прочтения: [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [Лучшее из более ранних](#лучшее-из-более-ранних)
 
-По темам: [Макромодели](reviews/models.md), [Методологии и статистика](reviews/meth.md), [Государство](reviews/fiscal.md), [Демография](reviews/demography.md), [Рынок труда](reviews/labor.md), [Кризисы](reviews/crisis.md), [Экономический рост](reviews/growth.md), [Инфляция](reviews/inflation.md), [Денежное обращение и ДКП](reviews/money.md), [Ожидания](reviews/expect.md), [Финстресс](reviews/FSI.md), [Глобальная торговля](reviews/trade.md), [Транспорт](reviews/transport.md), [Эконометрика](reviews/econometrics.md), [Природные ресурсы](reviews/nature.md), [Санкции](reviews/sanctions.md), [История](reviews/history.md), [ЦБ лучшее](reviews/cbr.md), [Фан](reviews/fun.md), [Написанное мной](reviews/my.md)
+По темам: [Макромодели](reviews/models.md), [Методологии и статистика](reviews/meth.md), [Государство](reviews/fiscal.md), [Демография](reviews/demography.md), [Рынок труда](reviews/labor.md), [Кризисы](reviews/crisis.md), [Экономический рост](reviews/growth.md), [Инфляция](reviews/inflation.md), [Денежное обращение и ДКП](reviews/money.md), [Ожидания](reviews/expect.md), [Финстресс](reviews/FSI.md), [Глобальная торговля](reviews/trade.md), [Транспорт](reviews/transport.md), [Эконометрика](reviews/econometrics.md), [Сети и графы](reviews/network.md), [Природные ресурсы](reviews/nature.md), [Санкции](reviews/sanctions.md), [История](reviews/history.md), [ЦБ лучшее](reviews/cbr.md), [Фан](reviews/fun.md), [Написанное мной](reviews/my.md)
 
 ## Надо сделать
 
@@ -28,11 +28,15 @@ RBA
 
 По ожиданиям переименовать и заложить в тему, но не корень
 
-Доописать уже скачанное в корне и доразложить по темам
+Доописать уже скачанное в корне
 
 
 
 ## 2022
+
+### ["Межпоколенческие счета и демографический дивиденд в России", Денисенко М., Козлов В.](https://demreview.hse.ru/article/view/8661/9233)
+
+### ["The size-centrality relationship in production networks", Dacic N., Melolinna M. ](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2022/the-size-centrality-relationship-in-production-networks.pdf?la=en&hash=B507576B16908C7C81D1CAE2C13A6F3343D94519)
 
 ### ["A statistical explanation of Dunning-Krueger effect", Magnus J., Peresetsky A.](https://www.nes.ru/files/Preprints-resh/WP286.pdf)
 
@@ -40,7 +44,7 @@ RBA
 
 ### ["Distortions in Macroeconomics" O. Blanchard](https://www.piie.com/system/files/documents/blanchard20170618.pdf)
 
-Суперкороткое описание развития макромоделей с 70-ых до сегодняшего дня. Попытка найти минимальный набор дополнительных фактов, которыми можно дополнить неокейнсианскую модель, чтобы все стало хорошо: номинальные жесткости, конечный горизонт планирования/предвидения, роль собственных средств (не понял, что это). Низкая реальная безрисковая ставка в США: снижение предельного продукта капитала vs отрыв ставки от продукта за счет премии зи риск или ликвидность.
+Суперкороткое описание развития макромоделей с 70-ых до сегодняшего дня. **Попытка найти минимальный набор дополнительных фактов, которыми можно дополнить неокейнсианскую модель**, чтобы все стало хорошо: номинальные жесткости, конечный горизонт планирования/предвидения, роль собственных средств (не понял, что это). Низкая реальная безрисковая ставка в США: снижение предельного продукта капитала vs отрыв ставки от продукта за счет премии зи риск или ликвидность.
 
 ### ["Экономический рост: Нобелевская премия 2018 года и уроки для России" О. А. Замулин, К. И. Сонин](https://publications.hse.ru/mirror/pubs/share/direct/231355202)
 
@@ -62,10 +66,14 @@ RBA
 
 ## 2021
 
+### ["The Aftermath of Debt Surges", Reinhart, Rogoff et al](https://documents1.worldbank.org/curated/en/249451631308017450/pdf/The-Aftermath-of-Debt-Surges.pdf)
+
 ### ["Управление ликвидностью банковского сектора и процентными ставками денежного рынка, Банк России"](https://www.cbr.ru/StaticHtml/File/102087/Liquidity.pdf)
-Дотошное описание того, как может ЦБ влиять на остатки банков на коррсчетах. Разбор на балансах всех основных понятий: ликвидность, автономные факторы, операции управления, дефицит и профицит. Сводится к тому, что это все для поддержания рыночных ставок около ключевой и само по себе на кредитование не влияет.
+Дотошное описание того, как может ЦБ влиять на остатки банков на коррсчетах. **Разбор на балансах всех основных понятий**: ликвидность, автономные факторы, операции управления, дефицит и профицит. Сводится к тому, что это все для поддержания рыночных ставок около ключевой и само по себе на кредитование не влияет.
 
 ### [«Фиатные деньги», В. Грищенко](https://www.cbr.ru/Content/Document/File/79860/analytic_note_20190829_ddkp.pdf)
+
+### ["Концепция цифрового рубля", Банк России](http://www.cbr.ru/content/document/file/120075/concept_08042021.pdf)
 
 ### ["How Could Russia Have Developed without the Revolution of 1917?", Korolev I.](https://www.jstor.org/stable/10.15609/annaeconstat2009.144.0075)
 
@@ -91,9 +99,15 @@ RBA
 
 ### [“Secular drivers of the global real interest rate”, Rachel, Smith](https://www.bankofengland.co.uk/working-paper/2015/secular-drivers-of-the-global-real-interest-rate)
 
+### ["Demographic trends and the real interest rate", Lisack N., Sajedi R., Thwaites G. ](https://www.bankofengland.co.uk/working-paper/2017/demographic-trends-and-the-real-interest-rate)
+
+### ["Demographics will reverse three multi-decade global trends", Goodhart C., Pradhan M. ](https://www.bis.org/publ/work656.htm#:~:text=Between%20the%201980s%20and%20the,into%20the%20World%20Trade%20Organization)
+
 ### ["Money in the modern economy: an introduction", Mcleay M., Radia A., Thomas R.](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-in-the-modern-economy-an-introduction)
 
 ### ["Money creation in the modern economy", Mcleay M., Radia A., Thomas R.](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy)
+
+### ["Оценка фискальных мультипликаторов в российской экономике", Зяблицкий](https://ej.hse.ru/data/2020/06/28/1610022291/%D0%97%D1%8F%D0%B1%D0%BB%D0%B8%D1%86%D0%BA%D0%B8%D0%B9.pdf)
 
 
 
@@ -109,11 +123,17 @@ RBA
 
 ### ["Illuminating economic growth", Yingyyao Hu, Jiaxiong Yao](http://www.econ2.jhu.edu/people/hu/paper_HUandYAO.pdf)
 
-Данные по ночному освещению как прокси для роста ВВП на душу в бедных странах. В зависимости от уровня благосостояния эластичность освещенности по ВВП: 0 - 2,3. Чем богаче, тем меньше, что логично.
+Данные **по ночному освещению как прокси** для роста ВВП на душу в бедных странах. В зависимости от уровня благосостояния эластичность освещенности по ВВП: 0 - 2,3. Чем богаче, тем меньше, что логично.
 
 ### ["A Forensic Examination of China’s National Accounts", Chen, Chen, Hsieh, Song](https://www.brookings.edu/wp-content/uploads/2019/03/BPEA-2019-Forensic-Analysis-China.pdf)
 
 **Китай оверрепортил экономический рост** в 2008-2016 годах на by 1-1.7 пп (или недокорректировал региональные данные). Обоснование - налоговый прокси (НДС) и индекс.
+
+### ["The Russian State’s Size and its Footprint: Have they Increased?", IMF](https://www.imf.org/en/Publications/WP/Issues/2019/03/09/The-Russian-States-Size-and-its-Footprint-Have-They-Increased-46662#:~:text=The%20short%20answer%3A%20The%20size,35%20percent%20for%202005%2D10)
+
+Доля государства в ВВП - 30-35%, в формальной экономической активности - 40%, в формальной занятости - около 50%.
+
+### ["Stemming Russia’s Informality: Unearthing Causes and Developing Solutions", WB](https://openknowledge.worldbank.org/handle/10986/31883)
 
 ### ["Fiscal space and the aftermath of financial crises: how it matters and why", Christina D. Romer,  David H. Romer](https://www.brookings.edu/wp-content/uploads/2019/03/Fiscal-Space-and-the-Aftermath-of-Financial-Crises.pdf)
 
@@ -121,7 +141,9 @@ RBA
 
 ### ["Learning from a Century of US Recessions", Goldman Sachs Economic Research](https://www.goldmansachs.com/insights/pages/learning-from-a-century-us-recessions/report.pdf)
 
-Качественное разложение 18 рецессий по пяти "причинам": промышленность, нефть, монетарное (инфляция + ужесточение), финансы, фискальное. Методики мало, но само деление любопытное.
+Качественное **разложение 18 рецессий по пяти "причинам"**: промышленность, нефть, монетарное (инфляция + ужесточение), финансы, фискальное. Методики мало, но само деление любопытное.
+
+### ["Manual on Government Deficit and Debt", Eurostat](https://ec.europa.eu/eurostat/documents/3859598/10042108/KS-GQ-19-007-EN-N.pdf/5d6fc8f4-58e3-4354-acd3-a29a66f2e00c)
 
 
 
@@ -141,6 +163,9 @@ RBA
 
 ### ["Who is Paying for the Trade War with China?", Zoller-Rydzek B., Felbermayr G.](https://www.econpol.eu/publications/policy_brief_11)
 
+### ["Second-Generation Fiscal Rules: Balancing Simplicity, Flexibility, and Enforceability", Eyraud L., Debrun X. et al](https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2018/04/12/Second-Generation-Fiscal-Rules-Balancing-Simplicity-Flexibility-and-Enforceability-45131)
+
+### ["How to select fiscal rules : a primer", IMF](https://www.imf.org/en/Publications/Fiscal-Affairs-Department-How-To-Notes/Issues/2018/03/15/How-to-Select-Fiscal-Rules-A-Primer-45552)
 
 
 
@@ -183,11 +208,13 @@ RBA
 
 ### ["Beyond GDP? Welfare across countries and time", C.I. Jones, P.J. Klenow](https://web.stanford.edu/~chadj/JonesKlenowAER2016.pdf)
 
-Предлагают меру благосостояния на основе потребления, времени отдыха, смертности и неравенства. По ней Европа и США ближе друг к другу, а развивающаяся Азия догнала слабее.
+Предлагают **меру благосостояния на основе потребления, времени отдыха, смертности и неравенства**. По ней Европа и США ближе друг к другу, а развивающаяся Азия догнала слабее.
 
 ### ["Quantitative Easing: Evolution of economic thinking as it happened on Vox", Wouter den Haan](https://voxeu.org/content/quantitative-easing-evolution-economic-thinking-it-happened-vox)
 
 Сборник статей о том, как придумывали и применяли QE в США и Европе. Не осилил, но для уточнения фактов потенциально полезно.
+
+### ["Understanding the New Normal: The Role of Demographics", Gagnon E., Johannsen B., Lopez-Salido D.](https://www.federalreserve.gov/econresdata/feds/2016/files/2016080pap.pdf)
 
 ### ["Global Trade Plateaus, The 19th Global Trade Alert Report", Evenett S.J., Fritz J.](https://www.globaltradealert.org/reports/15)
 

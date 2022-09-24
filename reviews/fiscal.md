@@ -10,6 +10,25 @@
 
 Суверены, менее нагруженные долгом, фактически более сильно реагируют бюджетной политикой на финансовые кризисы (только OECD, 1980-2017). Данные по мотивации austerity в конкретных эпизодах.
 
+### ["The Aftermath of Debt Surges", Reinhart, Rogoff et al](https://documents1.worldbank.org/curated/en/249451631308017450/pdf/The-Aftermath-of-Debt-Surges.pdf)
+
+### ["Оценка фискальных мультипликаторов в российской экономике", Зяблицкий](https://ej.hse.ru/data/2020/06/28/1610022291/%D0%97%D1%8F%D0%B1%D0%BB%D0%B8%D1%86%D0%BA%D0%B8%D0%B9.pdf)
+
 ### ["China’s overseas lending", Horn, Reinhart, Trebesch](https://www.ifw-kiel.de/fileadmin/Dateiverwaltung/IfW-Publications/Christoph_Trebesch/KWP_2132.pdf)
 
 Китай - крупнейший официальный кредитор, но условия часто рыночные. Текст к базе данных долгов перед Китаем.
+
+### ["The Russian State’s Size and its Footprint: Have they Increased?", IMF](https://www.imf.org/en/Publications/WP/Issues/2019/03/09/The-Russian-States-Size-and-its-Footprint-Have-They-Increased-46662#:~:text=The%20short%20answer%3A%20The%20size,35%20percent%20for%202005%2D10)
+
+Доля государства в ВВП - 30-35%, в формальной экономической активности - 40%, в формальной занятости - около 50%.
+
+### ["How to Read Government Deficit and Debt", Czech Stat Office](https://www.czso.cz/documents/10180/25609548/32019714q3032.pdf/fac30b6b-238f-4d77-8149-9b1f614abedd?version=1.0)
+Difference between ESA and EDP methodology
+
+### ["Manual on Government Deficit and Debt", Eurostat](https://ec.europa.eu/eurostat/documents/3859598/10042108/KS-GQ-19-007-EN-N.pdf/5d6fc8f4-58e3-4354-acd3-a29a66f2e00c)
+
+### ["Second-Generation Fiscal Rules: Balancing Simplicity, Flexibility, and Enforceability", Eyraud L., Debrun X. et al](https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2018/04/12/Second-Generation-Fiscal-Rules-Balancing-Simplicity-Flexibility-and-Enforceability-45131)
+
+### ["How to select fiscal rules : a primer", IMF](https://www.imf.org/en/Publications/Fiscal-Affairs-Department-How-To-Notes/Issues/2018/03/15/How-to-Select-Fiscal-Rules-A-Primer-45552)
+
+### "Макроэкономический анализ влияния изменения ставок налогов на государственный бюджет и участников рынка", Центр Развития НИУ-ВШЭ
