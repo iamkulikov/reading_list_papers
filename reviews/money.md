@@ -13,6 +13,8 @@
 
 ### [«Фиатные деньги», В. Грищенко](https://www.cbr.ru/Content/Document/File/79860/analytic_note_20190829_ddkp.pdf)
 
+### ["China’s Evolving Monetary Policy Framework in International Context", Jones B., Bowman J.](https://www.rba.gov.au/publications/rdp/2019/2019-11.html)
+
 ### ["Demographic trends and the real interest rate", Lisack N., Sajedi R., Thwaites G. ](https://www.bankofengland.co.uk/working-paper/2017/demographic-trends-and-the-real-interest-rate)
 
 ### ["Demographics will reverse three multi-decade global trends", Goodhart C., Pradhan M. ](https://www.bis.org/publ/work656.htm#:~:text=Between%20the%201980s%20and%20the,into%20the%20World%20Trade%20Organization)

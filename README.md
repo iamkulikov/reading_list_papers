@@ -6,9 +6,9 @@
 
 ## Надо сделать
 
-RBA
+BoE
 
-Ссылки по финстрессу
+Reinhart, Rogoff
 
 Ссылки из блога Шибанова
 
@@ -18,23 +18,25 @@ RBA
 
 По моделям методики разложить
 
-Связь распределений
+Доотсортировать статьи с работы
 
-Отсортировать статьи с работы
-
-Что-то базовое про арбитраж
+Что-то базовое про арбитраж и процентные ставки
 
 Эконометрику сделать отдельно
 
+Ссылки по финстрессу
+
 По ожиданиям переименовать и заложить в тему, но не корень
 
-Мои
+Кредитные риски сделать и описать что уже лежит
 
 Доописать уже скачанное в корне
 
 ## 2022
 
 ### ["Межпоколенческие счета и демографический дивиденд в России", Денисенко М., Козлов В.](https://demreview.hse.ru/article/view/8661/9233)
+
+### ["Macrofinancial Stress Testing on Australian Banks", RBA](https://www.rba.gov.au/publications/rdp/2022/2022-03.html)
 
 ### ["The size-centrality relationship in production networks", Dacic N., Melolinna M.](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2022/the-size-centrality-relationship-in-production-networks.pdf?la=en&hash=B507576B16908C7C81D1CAE2C13A6F3343D94519)
 
@@ -58,9 +60,15 @@ RBA
 
 Расширенное понимание среднего с примерами
 
+### ["Econometric Perspectives on Economic Measurement", Adam Gorajek](https://www.rba.gov.au/publications/rdp/2018/2018-08.html)
+
 ### ["Квартальная прогнозная модель России", Андрей Орлов](https://cbr.ru/Content/Document/File/118791/inf_note_feb_2521.pdf)
 
 Модификация QPM с cap controls?
+
+### ["MARTIN Has Its Place: A Macroeconometric Model of the Australian Economy", RBA](https://www.rba.gov.au/publications/rdp/2019/2019-07.html)
+
+### ["MARTIN Gets a Bank Account: Adding a Banking Sector to the RBA's Macroeconometric Model", RBA](https://www.rba.gov.au/publications/rdp/2022/2022-01.html)
 
 ## 2021
 
@@ -124,6 +132,8 @@ RBA
 
 **Китай оверрепортил экономический рост** в 2008-2016 годах на by 1-1.7 пп (или недокорректировал региональные данные). Обоснование - налоговый прокси (НДС) и индекс.
 
+### ["China’s Evolving Monetary Policy Framework in International Context", Jones B., Bowman J.](https://www.rba.gov.au/publications/rdp/2019/2019-11.html)
+
 ### ["The Russian State's Size and its Footprint: Have they Increased?", IMF](https://www.imf.org/en/Publications/WP/Issues/2019/03/09/The-Russian-States-Size-and-its-Footprint-Have-They-Increased-46662#:~:text=The%20short%20answer%3A%20The%20size,35%20percent%20for%202005%2D10)
 
 Доля государства в ВВП - 30-35%, в формальной экономической активности - 40%, в формальной занятости - около 50%.
@@ -141,6 +151,9 @@ RBA
 ### ["Manual on Government Deficit and Debt", Eurostat](https://ec.europa.eu/eurostat/documents/3859598/10042108/KS-GQ-19-007-EN-N.pdf/5d6fc8f4-58e3-4354-acd3-a29a66f2e00c)
 
 ## 2018
+
+### [Отличные explainer-ы от Резервного Банка Австралии](https://www.rba.gov.au/education/resources/explainers/)
+Платежный баланс, деньги, ДКП, курс и т.д. Пример того, какие темы можно простыми словами рассказать с 1-2 графиками.
 
 ### ["Экономический рост в России с учетом демографических изменений и вклада человеческого капитала", Акиндинова Н.В., Чекина К.С., Яркин А.М.](https://ej.hse.ru/data/2017/12/28/1160681432/%D0%90%D0%BA%D0%B8%D0%BD%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0.pdf)
 
