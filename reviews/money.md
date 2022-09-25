@@ -2,6 +2,12 @@
 
 [<< Все статьи](../README.md)
 
+### ["Decomposing the drivers of Global R*", Cesa-Bianchi A., Harrison R., Sajedi R.
+](https://www.bankofengland.co.uk/working-paper/2022/decomposing-the-drivers-of-global-r-star)
+
+### ["A tale of two global monetary policies",  Miranda-Agrippino S., Nenova T.](https://www.bankofengland.co.uk/working-paper/2022/a-tale-of-two-global-monetary-policies)
+Оценки spilover-ов QE в евро- и долларовой зоне на всевозможные показатели в других странах. Ссылки на данные о валютной структуре торговли и взаимных финансовых exposur-ов
+
 ### ["Концепция цифрового рубля", Банк России](http://www.cbr.ru/content/document/file/120075/concept_08042021.pdf)
 
 ### ["Money in the modern economy: an introduction", Mcleay M., Radia A., Thomas R.](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-in-the-modern-economy-an-introduction)

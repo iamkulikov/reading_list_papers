@@ -2,21 +2,17 @@
 
 По году прочтения: [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [Лучшее из более ранних](#лучшее-из-более-ранних)
 
-По темам: [Макромодели](reviews/models.md), [Методологии и статистика](reviews/meth.md), [Государство](reviews/fiscal.md), [Демография](reviews/demography.md), [Рынок труда](reviews/labor.md), [Кризисы](reviews/crisis.md), [Экономический рост](reviews/growth.md), [Инфляция](reviews/inflation.md), [Денежное обращение и ДКП](reviews/money.md), [Ожидания](reviews/expect.md), [Финстресс](reviews/FSI.md), [Глобальная торговля](reviews/trade.md), [Транспорт](reviews/transport.md), [Эконометрика](reviews/econometrics.md), [Сети и графы](reviews/network.md), [Природные ресурсы](reviews/nature.md), [Санкции](reviews/sanctions.md), [История](reviews/history.md), [ЦБ лучшее](reviews/cbr.md), [Фан](reviews/fun.md), [Написанное мной](reviews/my.md)
+По темам: [Макромодели](reviews/models.md), [Методологии и статистика](reviews/meth.md), [Государство](reviews/fiscal.md), [Демография](reviews/demography.md), [Рынок труда](reviews/labor.md), [Кризисы](reviews/crisis.md), [Экономический рост](reviews/growth.md), [Инфляция](reviews/inflation.md), [Денежное обращение и ДКП](reviews/money.md), [Ожидания](reviews/expect.md), [Финстресс](reviews/FSI.md), [Кредитные риски](reviews/defaults.md), [Глобальная торговля](reviews/trade.md), [Транспорт](reviews/transport.md), [Эконометрика](reviews/econometrics.md), [Сети и графы](reviews/network.md), [Природные ресурсы](reviews/nature.md), [Санкции](reviews/sanctions.md), [История](reviews/history.md), [ЦБ лучшее](reviews/cbr.md), [Фан](reviews/fun.md), [Написанное мной](reviews/my.md)
 
 ## Надо сделать
 
-BoE
-
-Reinhart, Rogoff
+Reinhart, Rogoff, но что - базу?
 
 Ссылки из блога Шибанова
 
-СНС, BOP и росстатовские детали
-
 Найти что-то по Input-Output
 
-По моделям методики разложить
+Методики моделей разложить
 
 Доотсортировать статьи с работы
 
@@ -26,6 +22,8 @@ Reinhart, Rogoff
 
 Ссылки по финстрессу
 
+Наш ЦБ лучшее
+
 По ожиданиям переименовать и заложить в тему, но не корень
 
 Кредитные риски сделать и описать что уже лежит
@@ -33,6 +31,15 @@ Reinhart, Rogoff
 Доописать уже скачанное в корне
 
 ## 2022
+
+### ["BoC–BoE Sovereign Default Database: What’s New in 2022?"](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/whats-new-in-2022.pdf?la=en&hash=6F498BC56486FE458DA50F855B0EF079FC5C41AA)
+Selective дефолты доминируют. История дефолтности с 1820-ых. Структура по кредиторам - перед кем и в какой форме дефолтят в каждую эпоху.
+
+### ["Decomposing the drivers of Global R*", Cesa-Bianchi A., Harrison R., Sajedi R.
+](https://www.bankofengland.co.uk/working-paper/2022/decomposing-the-drivers-of-global-r-star)
+
+### ["A tale of two global monetary policies",  Miranda-Agrippino S., Nenova T.](https://www.bankofengland.co.uk/working-paper/2022/a-tale-of-two-global-monetary-policies)
+Оценки spilover-ов QE в евро- и долларовой зоне на всевозможные показатели в других странах. Ссылки на данные о валютной структуре торговли и взаимных финансовых exposur-ов
 
 ### ["Межпоколенческие счета и демографический дивиденд в России", Денисенко М., Козлов В.](https://demreview.hse.ru/article/view/8661/9233)
 
@@ -90,7 +97,13 @@ Reinhart, Rogoff
 
 ### ["Sins of Omission and the Practice of Economics", Akerlof G.](https://www.aeaweb.org/articles?id=10.1257/jel.20191573)
 
+### ["The UK recession in context — what do three centuries of data tell us?", BoE](https://www.bankofengland.co.uk/quarterly-bulletin/2010/q4/the-uk-recession-in-context-what-do-three-centuries-of-data-tell-us)
+Сейчас уже сделали millennium of data с 1086 года.
+
 ## 2020
+
+### ["How Frequently Do Sovereigns Default on Local Currency Debt?", BoE](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/how-frequently-do-sovereigns-default-on-local-currency-debt.pdf?la=en&hash=62205B4AB0B476C576442F70C03F61E1915EA9C1)
+Суверенные LC дефолты начались в 90-ые, так как локальный госдолг начал расти, рынки развиваться. За последнее 10-летие в год 5-10 дефолтят по FC, 2-3 по LC.
 
 ### ["Economic crises and mortality among the elderly. Evidence from two Russian crises", Margarita Khvan, Elizaveta Smorodenkova, Evgeny Yakovlev](https://www.nes.ru/files/Preprints-resh/WP266.pdf)
 
@@ -149,6 +162,8 @@ Reinhart, Rogoff
 Качественное **разложение 18 рецессий по пяти "причинам"**: промышленность, нефть, монетарное (инфляция + ужесточение), финансы, фискальное. Методики мало, но само деление любопытное.
 
 ### ["Manual on Government Deficit and Debt", Eurostat](https://ec.europa.eu/eurostat/documents/3859598/10042108/KS-GQ-19-007-EN-N.pdf/5d6fc8f4-58e3-4354-acd3-a29a66f2e00c)
+
+
 
 ## 2018
 

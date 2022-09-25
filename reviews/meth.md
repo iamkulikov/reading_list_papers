@@ -18,7 +18,16 @@
 
 ### ["Econometric Perspectives on Economic Measurement", Adam Gorajek](https://www.rba.gov.au/publications/rdp/2018/2018-08.html)
 
+### ["Методология прогноза по демографии", UNDP](https://population.un.org/wpp/Publications/Files/WPP2022_Methodology.pdf)
+
+### ["Government Finance Statistics Manual 2014 (GFSM 2014)", IMF](https://www.imf.org/external/pubs/ft/gfs/manual/gfs.htm)
+
+### ["Измерение ненаблюдаемой экономики. Руководство", ОЭСР](https://www.gks.ru/metod/izmer.pdf)
+
 ### ["Manual on Government Deficit and Debt", Eurostat](https://ec.europa.eu/eurostat/documents/3859598/10042108/KS-GQ-19-007-EN-N.pdf/5d6fc8f4-58e3-4354-acd3-a29a66f2e00c)
 
 ### ["PPP Calculation and Estimation", WB](https://www.worldbank.org/en/programs/icp/brief/methodology-calculation)
 
+### ["Руководство по платежному балансу и международной инвестиционной позиции", МВФ](https://www.imf.org/external/pubs/ft/bop/2007/bopman6.htm)
+
+### ["Система национальных счетов - 2008", ООН](https://unstats.un.org/unsd/nationalaccount/sna.asp)
