@@ -2,33 +2,8 @@
 
 По году прочтения: [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [Лучшее из более ранних](#лучшее-из-более-ранних)
 
-По темам: [Макромодели](reviews/models.md), [Методологии и статистика](reviews/meth.md), [Государство](reviews/fiscal.md), [Демография](reviews/demography.md), [Рынок труда](reviews/labor.md), [Кризисы](reviews/crisis.md), [Экономический рост](reviews/growth.md), [Инфляция](reviews/inflation.md), [Денежное обращение и ДКП](reviews/money.md), [Ожидания](reviews/expect.md), [Финстресс](reviews/FSI.md), [Кредитные риски](reviews/defaults.md), [Глобальная торговля](reviews/trade.md), [Транспорт](reviews/transport.md), [Эконометрика](reviews/econometrics.md), [Сети и графы](reviews/network.md), [Природные ресурсы](reviews/nature.md), [Санкции](reviews/sanctions.md), [История](reviews/history.md), [ЦБ лучшее](reviews/cbr.md), [Фан](reviews/fun.md), [Написанное мной](reviews/my.md)
+По темам: [Макромодели](reviews/models.md), [Методологии и статистика](reviews/meth.md), [Государство](reviews/fiscal.md), [Демография](reviews/demography.md), [Рынок труда](reviews/labor.md), [Кризисы](reviews/crisis.md), [Экономический рост](reviews/growth.md), [Инфляция](reviews/inflation.md), [Денежное обращение и ДКП](reviews/money.md), [Ожидания](reviews/expect.md), [Финстресс](reviews/FSI.md), [Кредитные риски](reviews/defaults.md), [Глобальная торговля](reviews/trade.md), [Транспорт](reviews/transport.md), [Эконометрика](reviews/econometrics.md), [Сети и графы](reviews/network.md), [Природные ресурсы](reviews/nature.md), [Санкции](reviews/sanctions.md), [История](reviews/history.md), [ЦБ лучшее](reviews/cbr.md), [Фан](reviews/fun.md), [Написанное мной](reviews/my.md), [To-Do](reviews/todo.md)
 
-## Надо сделать
-
-Reinhart, Rogoff, но что - базу?
-
-Ссылки из блога Шибанова
-
-Найти что-то по Input-Output
-
-Методики моделей разложить
-
-Доотсортировать статьи с работы
-
-Что-то базовое про арбитраж и процентные ставки
-
-Эконометрику сделать отдельно
-
-Ссылки по финстрессу
-
-Наш ЦБ лучшее
-
-По ожиданиям переименовать и заложить в тему, но не корень
-
-Кредитные риски сделать и описать что уже лежит
-
-Доописать уже скачанное в корне
 
 ## 2022
 
@@ -188,6 +163,8 @@ Selective дефолты доминируют. История дефолтнос
 
 ### ["How to select fiscal rules : a primer", IMF](https://www.imf.org/en/Publications/Fiscal-Affairs-Department-How-To-Notes/Issues/2018/03/15/How-to-Select-Fiscal-Rules-A-Primer-45552)
 
+
+
 ## 2017
 
 ### ["China's GDP growth may be understated", Hunter Clark, Maxim Pinkovskiy, Xavier Sala-i-Martin](https://www.nber.org/system/files/working_papers/w23323/w23323.pdf)
@@ -203,6 +180,8 @@ Selective дефолты доминируют. История дефолтнос
 ### ["Quantitative Easing. Evolution of economic thinking as it happened on Vox", Wouter J.D.H.](https://cepr.org/publications/books-and-reports/quantitative-easing-evolution-economic-thinking-it-happened-vox)
 
 ### ["Diversified development. Making the most of natural resources in Eurasia", WB]()
+
+
 
 ## 2016
 
@@ -235,6 +214,8 @@ Selective дефолты доминируют. История дефолтнос
 ### ["Global Trade Plateaus, The 19th Global Trade Alert Report", Evenett S.J., Fritz J.](https://www.globaltradealert.org/reports/15)
 
 ### ["PPP Calculation and Estimation", WB](https://www.worldbank.org/en/programs/icp/brief/methodology-calculation)
+
+
 
 ## Лучшее из более ранних {#лучшее-из-более-ранних}
 
