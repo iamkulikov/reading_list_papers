@@ -10,8 +10,7 @@
 ### ["BoC–BoE Sovereign Default Database: What’s New in 2022?"](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/whats-new-in-2022.pdf?la=en&hash=6F498BC56486FE458DA50F855B0EF079FC5C41AA)
 Selective дефолты доминируют. История дефолтности с 1820-ых. Структура по кредиторам - перед кем и в какой форме дефолтят в каждую эпоху.
 
-### ["Decomposing the drivers of Global R*", Cesa-Bianchi A., Harrison R., Sajedi R.
-](https://www.bankofengland.co.uk/working-paper/2022/decomposing-the-drivers-of-global-r-star)
+### ["Decomposing the drivers of Global R*", Cesa-Bianchi A., Harrison R., Sajedi R.](https://www.bankofengland.co.uk/working-paper/2022/decomposing-the-drivers-of-global-r-star)
 
 ### ["A tale of two global monetary policies",  Miranda-Agrippino S., Nenova T.](https://www.bankofengland.co.uk/working-paper/2022/a-tale-of-two-global-monetary-policies)
 Оценки spilover-ов QE в евро- и долларовой зоне на всевозможные показатели в других странах. Ссылки на данные о валютной структуре торговли и взаимных финансовых exposur-ов
