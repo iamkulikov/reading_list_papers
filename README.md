@@ -7,6 +7,9 @@
 
 ## 2022
 
+### ["The Economic Effects of International Sanctions: An Event Study", Gutmann J., Neunkirch M., Neumeier F.](https://www.cesifo.org/en/publications/2021/working-paper/economic-effects-international-sanctions-event-study)
+Описан переход на более низкую траекторию экономического роста за счет более низкой траектории инвестиций и внешней торговли и вообще всего. По ВВП на душу - в среднем -4%. Даже после снятия санкций негативные эффекты продолжают действовать на протяжении лет (но это не очень доказано). Кроме того, в среднем в странах под жесткими санкциями растут военные расходы, ограничивая возможности для выполнения социальных функций государством.
+
 ### ["BoC–BoE Sovereign Default Database: What’s New in 2022?"](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/whats-new-in-2022.pdf?la=en&hash=6F498BC56486FE458DA50F855B0EF079FC5C41AA)
 Selective дефолты доминируют. История дефолтности с 1820-ых. Структура по кредиторам - перед кем и в какой форме дефолтят в каждую эпоху.
 
