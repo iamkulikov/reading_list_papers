@@ -2,8 +2,8 @@
 
 [<< Все статьи](../README.md)
 
-### ["Decomposing the drivers of Global R*", Cesa-Bianchi A., Harrison R., Sajedi R.
-](https://www.bankofengland.co.uk/working-paper/2022/decomposing-the-drivers-of-global-r-star)
+### ["Decomposing the drivers of Global R*", Cesa-Bianchi A., Harrison R., Sajedi R.](https://www.bankofengland.co.uk/working-paper/2022/decomposing-the-drivers-of-global-r-star)
+R* получается из OLG-модели, в которой мир - одна закрытая экономика. Пять драйверов ставки: производительность, рост населения, продолжительность жизни, относительная цена капитала и госдолг. Из 31 страны выделяют общую часть для каждого из этих факторов (взвешенное среднее).  Глобальный r* растет с 1950-ых до 1970-ых (1.25% -> 2.75%), потом падает из-за снижения производительности и роста продолжительности жизни (-0.25% в 2015).
 
 ### ["A tale of two global monetary policies",  Miranda-Agrippino S., Nenova T.](https://www.bankofengland.co.uk/working-paper/2022/a-tale-of-two-global-monetary-policies)
 Оценки spilover-ов QE в евро- и долларовой зоне на всевозможные показатели в других странах. Ссылки на данные о валютной структуре торговли и взаимных финансовых exposur-ов
