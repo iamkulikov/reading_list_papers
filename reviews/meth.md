@@ -5,6 +5,7 @@
 ### ["What are the most important statistical ideas of the past 50 years?", Gelman A., Vehtari A.](http://www.stat.columbia.edu/~gelman/research/unpublished/stat50.pdf)
 
 ### ["A statistical explanation of Dunning-Krueger effect", Magnus J., Peresetsky A.](https://www.nes.ru/files/Preprints-resh/WP286.pdf)
+Эффект Даннинга-Крюгера (люди с низкими способностями переоценивают себя и наоборот) - статистический артефакт. Если учесть наличие верхней и нижней границы балла теста, становится понятно, что способным людям просто нет места себя переоценить, а неспособным - недооценить. **Важно помнить про ограниченность данных, и как следствие несимметричность ошибок на краях.**
 
 ### ["The atlas of economic complexity. Mapping paths to prosperity", Hausman, Hidalgo et al](https://oec.world/pdf/AtlasOfEconomicComplexity_Part_I.pdf)
 

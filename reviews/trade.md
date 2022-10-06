@@ -2,6 +2,9 @@
 
 [<< Все статьи](../README.md)
 
+### ["Global supply chain disruptions: evolution, impact, outlook", Igan D., Rungcharoenkitkul P., and Takahashi K.](https://www.bis.org/publ/bisbull61.pdf)
+не сохр
+
 ### ["China’s overseas lending", Horn, Reinhart, Trebesch](https://www.ifw-kiel.de/fileadmin/Dateiverwaltung/IfW-Publications/Christoph_Trebesch/KWP_2132.pdf)
 
 **Китай - крупнейший официальный кредитор**, но условия часто рыночные. Текст к базе данных долгов перед Китаем.

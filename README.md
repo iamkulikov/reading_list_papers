@@ -7,8 +7,14 @@
 
 ## 2022
 
+### ["Historical monetary and financial statistics for policymakers: towards a unified framework", Borio C. et al](https://www.bis.org/publ/bppdf/bispap127.pdf)
+не сохр
+
+### ["Global supply chain disruptions: evolution, impact, outlook", Igan D., Rungcharoenkitkul P., and Takahashi K.](https://www.bis.org/publ/bisbull61.pdf)
+не сохр
+
 ### ["The Economic Effects of International Sanctions: An Event Study", Gutmann J., Neunkirch M., Neumeier F.](https://www.cesifo.org/en/publications/2021/working-paper/economic-effects-international-sanctions-event-study)
-Описан переход на более низкую траекторию экономического роста за счет более низкой траектории инвестиций и внешней торговли и вообще всего. По ВВП на душу - в среднем -4%. Даже после снятия санкций негативные эффекты продолжают действовать на протяжении лет (но это не очень доказано). Кроме того, в среднем в странах под жесткими санкциями растут военные расходы, ограничивая возможности для выполнения социальных функций государством.
+Описан переход на более низкую траекторию экономического роста после введения санкций за счет более низкой траектории инвестиций и внешней торговли и вообще всего. По ВВП на душу - в среднем -4%. Даже после снятия санкций негативные эффекты продолжают действовать на протяжении лет (но это не очень доказано). Кроме того, в среднем в странах под жесткими санкциями растут военные расходы, ограничивая возможности для выполнения социальных функций государством. (не сохр)
 
 ### ["BoC–BoE Sovereign Default Database: What’s New in 2022?"](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/whats-new-in-2022.pdf?la=en&hash=6F498BC56486FE458DA50F855B0EF079FC5C41AA)
 Selective дефолты доминируют. История дефолтности с 1820-ых. Структура по кредиторам - перед кем и в какой форме дефолтят в каждую эпоху.
@@ -17,7 +23,7 @@ Selective дефолты доминируют. История дефолтнос
 R* получается из OLG-модели, в которой мир - одна закрытая экономика. Пять драйверов ставки: производительность, рост населения, продолжительность жизни, относительная цена капитала и госдолг. Из 31 страны выделяют общую часть для каждого из этих факторов (взвешенное среднее).  Глобальный r* растет с 1950-ых до 1970-ых (1.25% -> 2.75%), потом падает из-за снижения производительности и роста продолжительности жизни (-0.25% в 2015).
 
 ### ["A tale of two global monetary policies",  Miranda-Agrippino S., Nenova T.](https://www.bankofengland.co.uk/working-paper/2022/a-tale-of-two-global-monetary-policies)
-Оценки spilover-ов QE в евро- и долларовой зоне на всевозможные показатели в других странах. Ссылки на данные о валютной структуре торговли и взаимных финансовых exposur-ов
+Оценки spilover-ов QE в евро- и долларовой зоне на всевозможные показатели в других странах. Ссылки на данные о валютной структуре торговли и взаимных финансовых exposure-ов
 
 ### ["Межпоколенческие счета и демографический дивиденд в России", Денисенко М., Козлов В.](https://demreview.hse.ru/article/view/8661/9233)
 
@@ -26,6 +32,7 @@ R* получается из OLG-модели, в которой мир - одн
 ### ["The size-centrality relationship in production networks", Dacic N., Melolinna M.](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2022/the-size-centrality-relationship-in-production-networks.pdf?la=en&hash=B507576B16908C7C81D1CAE2C13A6F3343D94519)
 
 ### ["A statistical explanation of Dunning-Krueger effect", Magnus J., Peresetsky A.](https://www.nes.ru/files/Preprints-resh/WP286.pdf)
+Эффект Даннинга-Крюгера (люди с низкими способностями переоценивают себя и наоборот) - статистический артефакт. Если учесть наличие верхней и нижней границы балла теста, становится понятно, что способным людям просто нет места себя переоценить, а неспособным - недооценить. **Важно помнить про ограниченность данных, и как следствие несимметричность ошибок на краях.**
 
 ### ["New Russian Economic History", Zhuravskaya E., Guriev S., Markevich A.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962960)
 
