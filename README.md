@@ -75,6 +75,7 @@ R* получается из OLG-модели, в которой мир - одн
 ### ["Концепция цифрового рубля", Банк России](http://www.cbr.ru/content/document/file/120075/concept_08042021.pdf)
 
 ### ["How Could Russia Have Developed without the Revolution of 1917?", Korolev I.](https://www.jstor.org/stable/10.15609/annaeconstat2009.144.0075)
+СССР понадобилось 12-15 лет, чтобы преодолеть спад производства - ожидал большего срока. А из техники порадовало даже на само построение counterfactual с привязкой к другим странам, а набор методов, чтобы проверить его адекватность.
 
 ### ["Inflation Dynamics: Dead, Dormant, or Determined Abroad?", Forbes K.J.](https://www.brookings.edu/bpea-articles/inflation-dynamics-dead-dormant-or-determined-abroad/)
 
