@@ -8,10 +8,8 @@
 ## 2022
 
 ### ["Historical monetary and financial statistics for policymakers: towards a unified framework", Borio C. et al](https://www.bis.org/publ/bppdf/bispap127.pdf)
-не сохр
 
 ### ["Global supply chain disruptions: evolution, impact, outlook", Igan D., Rungcharoenkitkul P., and Takahashi K.](https://www.bis.org/publ/bisbull61.pdf)
-не сохр
 
 ### ["The Economic Effects of International Sanctions: An Event Study", Gutmann J., Neunkirch M., Neumeier F.](https://www.cesifo.org/en/publications/2021/working-paper/economic-effects-international-sanctions-event-study)
 Описан переход на более низкую траекторию экономического роста после введения санкций за счет более низкой траектории инвестиций и внешней торговли и вообще всего. По ВВП на душу - в среднем -4%. Даже после снятия санкций негативные эффекты продолжают действовать на протяжении лет (но это не очень доказано). Кроме того, в среднем в странах под жесткими санкциями растут военные расходы, ограничивая возможности для выполнения социальных функций государством. (не сохр)

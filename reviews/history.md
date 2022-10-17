@@ -3,7 +3,6 @@
 [<< Все статьи](../README.md)
 
 ### ["Historical monetary and financial statistics for policymakers: towards a unified framework", Borio C. et al](https://www.bis.org/publ/bppdf/bispap127.pdf)
-не сохр
 
 ### ["New Russian Economic History", Zhuravskaya E., Guriev S., Markevich A.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962960)
 
