@@ -3,6 +3,7 @@
 [<< Все статьи](../README.md)
 
 ### ["Historical monetary and financial statistics for policymakers: towards a unified framework", Borio C. et al](https://www.bis.org/publ/bppdf/bispap127.pdf)
+Слово statistorian. Проблема меняющейся границы, несовпадения границы государства и экономической границы. Упрощение ради описания стабильного хоть в чем-то объекта. Convenience yield для обозначения ставок ниже risk-free у аналогов денег, бенчмарков или залогов. Хорошее описание зоопарка ставок и деталей их интерпретации. Теневая банковская система и кредит в целом. Построение и модель цены недвижимости. 
 
 ### ["New Russian Economic History", Zhuravskaya E., Guriev S., Markevich A.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962960)
 
