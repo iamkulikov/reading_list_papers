@@ -7,19 +7,22 @@
 
 ## 2022
 
+
+
 ### ["Multinationals, global value chains, and the welfare impacts of economic sanctions", Du X., Wang Z.](https://sites.google.com/site/icebergzw/research)
 
 Разрыв в торговых связях и ТНК-производстве со всеми кроме Китая будет стоить России 7-12% благосостояния. Восточной Европе - 0.4%-0.5%, Западной - 0.1-0.2%, США - ничего. GE-модель.
-
 
 ### "Микроструктурный анализ кризиса рубля в декабре 2014 года", Обижаева А., Пифтанкин Г. (выступление на семинаре, есть ли публикация?)
 
 **В 2014 году нужо было $30-400 млн долл., чтобы сдвинуть курс USDTOM на 1% (сейчас БР оценивает 1 млрд).** А дисбаланс в заявках должен был достичь 3-5 млрд (со временем исполнения около 3 недель), чтобы сдвинуть курс на 40%. Заявки на продажу валюты начали пропадать уже 11 декабря. Связано с выпуском Роснефтью облигаций на 625 млрд рублей? День четырех ведьм? Что-то внебиржевое? Аналог - Flash Crash в 2010 году. Банк России влил около 6 млрд долл. за три дня, и поднял ставку до 17%, ночь 15-16 декабря. Сравнить интерпретацию валютного базиса в 2014 и 2022 годах?
 
 ### ["Historical monetary and financial statistics for policymakers: towards a unified framework", Borio C. et al](https://www.bis.org/publ/bppdf/bispap127.pdf)
+
 Слово statistorian. Проблема меняющейся границы, несовпадения границы государства и экономической границы. Упрощение ради описания стабильного хоть в чем-то объекта. Convenience yield для обозначения ставок ниже risk-free у аналогов денег, бенчмарков или залогов. **Хорошее описание зоопарка ставок и деталей их интерпретации.** Теневая банковская система и кредит в целом. Построение и модель цены недвижимости. 
 
 ### ["Global supply chain disruptions: evolution, impact, outlook", Igan D., Rungcharoenkitkul P., and Takahashi K.](https://www.bis.org/publ/bisbull61.pdf)
+
 Индексы supply-chain pressure от NY Fed (более supply-side) и Citi. Среднее удлинение фрахта в конце 2021 года - около 10 дней. Наиболее капиталоемкие отрасли и наиболее спецализированные из-за сложности производства естественно более центральны для цепей производства, так как меньше производств-заменителей. Плохие новости о возможном дефиците input-ов самосбывающиеся, так как меняется поведение в сторону накопления запасов. GVC-trade - is a value-added trade crossing border more than once. **Оценка bottleneck вклада в инфляцию 2Q2022 - 0.5-4.0 в зависимости от страны.** Климат, войны, госполитики по reshoring-у могут вновь повлиять на supply-chain инфляцию довольно быстро.
 
 ### ["The Economic Effects of International Sanctions: An Event Study", Gutmann J., Neunkirch M., Neumeier F.](https://www.cesifo.org/en/publications/2021/working-paper/economic-effects-international-sanctions-event-study)
@@ -29,6 +32,10 @@
 ### ["BoC–BoE Sovereign Default Database: What’s New in 2022?"](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/whats-new-in-2022.pdf?la=en&hash=6F498BC56486FE458DA50F855B0EF079FC5C41AA)
 
 Selective дефолты доминируют. **История дефолтности с 1820-ых.** Структура по кредиторам - перед кем и в какой форме дефолтят в каждую эпоху.
+
+### ["How Much Should We Trust the Dictator’s GDP Growth Estimates?", Martinez L.](https://bfi.uchicago.edu/wp-content/uploads/2021/07/BFI_WP_2021-78.pdf)
+
+Разница в эластичностях ВВП по ночному освещению: у более авторитарных эластичность больше даже после контроля прочих характеристик типа сруктуры экономики. **Authoritarian inflation factor - 1.15-1.3.** Список статей с использованием космических снимков и варианты измерения демократичности.
 
 ### ["Decomposing the drivers of Global R*", Cesa-Bianchi A., Harrison R., Sajedi R.](https://www.bankofengland.co.uk/working-paper/2022/decomposing-the-drivers-of-global-r-star)
 
