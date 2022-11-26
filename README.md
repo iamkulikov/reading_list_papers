@@ -4,11 +4,27 @@
 
 По темам: [Макромодели](reviews/models.md), [Методологии и статистика](reviews/meth.md), [Государство](reviews/fiscal.md), [Демография](reviews/demography.md), [Рынок труда и доходы](reviews/labor.md), [Кризисы](reviews/crisis.md), [Экономический рост](reviews/growth.md), [Инфляция](reviews/inflation.md), [Денежное обращение и ДКП](reviews/money.md), [Ожидания](reviews/expect.md), [Финстресс](reviews/FSI.md), [Кредитные риски](reviews/defaults.md), [Глобальная торговля](reviews/trade.md), [Транспорт](reviews/transport.md), [Эконометрика](reviews/econometrics.md), [Сети и графы](reviews/network.md), [Природные ресурсы](reviews/nature.md), [Санкции](reviews/sanctions.md), [История](reviews/history.md), [ЦБ лучшее](reviews/cbr.md), [Фан](reviews/fun.md), [Написанное мной](reviews/my.md), [To-Do](reviews/todo.md)
 
+## Прочесть
+
+### "Open economy macroeconomics. Chapter 1", Uribe M., Schmitt-Grohe S.
+Факты о бизнес-циклах.
+
+### ["The Economic  Organisation of a P.O.W. Camp", Radford R.](https://fermatslibrary.com/s/the-economic-organization-of-a-pow-camp)
+Сигареты как деньги в концлагере.
+
+### ["Networks and the Macroeconomy: An Empirical Exploration", Acemoglu D., Akcigit U., Kerr W.](https://economics.mit.edu/sites/default/files/inline-files/Networks%20and%20the%20Macroeconomy%20-%20An%20Empirical%20Exploration.pdf)
+Из какого сборника? Handbook of what?
+
+### ["Catching-up and falling behind: Russian economic growth, 1690s-1880s", Korchmina E.](https://www.academia.edu/83059479/Catching_up_and_falling_behind_Russian_economic_growth_1690s_1880s)
+Посмотреть ссылки еще отсюда
 
 ## 2022
 
+### ["Useful Microeconomics", Real Progress Blog ](http://realprogressinenglish.blogspot.com/2022/11/useful-microeconomics.html?utm_source=econ-academics-widget&utm_medium=widget&utm_campaign=econ-academics-widget)
+Неплохой reading list, **чтобы освежить микроэкономику - брать отсюда**. Разделы: оптимизационные модели д/х и фирм, благосостояние и неравенство, базовая теория игр, social choice, регулирование естественных монополий, поведенческая экономика, измерение рыночной силы, вход на рынок и инновации.
+
 ### ["Fiscal Rules and Fiscal Councils Recent Trends and Performance during the COVID-19 Pandemic", IMF](https://www.imf.org/external/datamapper/fiscalrules/map/map.htm)
-Половина стран имеет хотя бы одно бюджетное правило. Растет и число стран, и среднее количество правил на страну. Растет гибкость (включая escape clause). Из стран с правилами, 80% имеют как минимум долговое, 70% имеют долговое + какое-то операционное (типа потолка дефицита). После пандемии у половины стран с потолком долга он пробит, дефицит пробивали почти все. Есть оценка strength и мэппинг WEO переменных в целевые бюджетные.
+Половина стран имеет хотя бы одно бюджетное правило. Растет и число стран, и среднее количество правил на страну. Растет гибкость (включая escape clause). Из стран с правилами, **80% имеют как минимум долговое, 70% имеют долговое + какое-то операционное** (типа потолка дефицита). После пандемии у половины стран с потолком долга он пробит, дефицит пробивали почти все. Есть оценка strength и мэппинг WEO переменных в целевые бюджетные.
 
 ### ["Multinationals, global value chains, and the welfare impacts of economic sanctions", Du X., Wang Z.](https://sites.google.com/site/icebergzw/research)
 

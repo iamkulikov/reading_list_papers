@@ -3,7 +3,7 @@
 [<< Все статьи](../README.md)
 
 ### ["Fiscal Rules and Fiscal Councils Recent Trends and Performance during the COVID-19 Pandemic", IMF](https://www.imf.org/external/datamapper/fiscalrules/map/map.htm)
-Половина стран имеет хотя бы одно бюджетное правило. Растет и число стран, и среднее количество правил на страну. Растет гибкость (включая escape clause). Из стран с правилами, 80% имеют как минимум долговое, 70% имеют долговое + какое-то операционное (типа потолка дефицита). После пандемии у половины стран с потолком долга он пробит, дефицит пробивали почти все. Есть оценка strength и мэппинг WEO переменных в целевые бюджетные.
+Половина стран имеет хотя бы одно бюджетное правило. Растет и число стран, и среднее количество правил на страну. Растет гибкость (включая escape clause). Из стран с правилами, **80% имеют как минимум долговое, 70% имеют долговое + какое-то операционное** (типа потолка дефицита). После пандемии у половины стран с потолком долга он пробит, дефицит пробивали почти все. Есть оценка strength и мэппинг WEO переменных в целевые бюджетные.
 
 ### ["Three World Wars: Fiscal-Monetary Consequences", Georege J. Hall, Thomas J. Sargent](https://www.minneapolisfed.org/~/media/assets/events/2021/monetary-fiscal-interactions-40-years-after-unpleasant-monetarist-arithmetic/sargent-paper.pdf?la=en)
 

@@ -2,6 +2,9 @@
 
 [<< Все статьи](../README.md)
 
+### ["Catching-up and falling behind: Russian economic growth, 1690s-1880s", Korchmina E.](https://www.academia.edu/83059479/Catching_up_and_falling_behind_Russian_economic_growth_1690s_1880s)
+Посмотреть ссылки еще отсюда
+
 ### ["Historical monetary and financial statistics for policymakers: towards a unified framework", Borio C. et al](https://www.bis.org/publ/bppdf/bispap127.pdf)
 Слово statistorian. Проблема меняющейся границы, несовпадения границы государства и экономической границы. Упрощение ради описания стабильного хоть в чем-то объекта. Convenience yield для обозначения ставок ниже risk-free у аналогов денег, бенчмарков или залогов. **Хорошее описание зоопарка ставок и деталей их интерпретации.** Теневая банковская система и кредит в целом. Построение и модель цены недвижимости. 
 

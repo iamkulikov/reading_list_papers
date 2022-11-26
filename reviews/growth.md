@@ -2,6 +2,9 @@
 
 [<< Все статьи](../README.md)
 
+### "Open economy macroeconomics. Chapter 1", Uribe M., Schmitt-Grohe S.
+Факты о бизнес-циклах.
+
 ### ["How Much Should We Trust the Dictator’s GDP Growth Estimates?", Martinez L.](https://bfi.uchicago.edu/wp-content/uploads/2021/07/BFI_WP_2021-78.pdf)
 
 Разница в эластичностях ВВП по ночному освещению: у более авторитарных эластичность больше даже после контроля прочих характеристик типа сруктуры экономики. **Authoritarian inflation factor - 1.15-1.3.** Список статей с использованием космических снимков и варианты измерения демократичности.

@@ -2,6 +2,9 @@
 
 [<< Все статьи](../README.md)
 
+### ["Understanding economic openness: a review of existing measures", Gräbner C., Heimberger P., Kapeller J., Springholz  F.](https://link.springer.com/article/10.1007/s10290-020-00391-1)
+Торговая и финансовая, де-юре и де-факто. Слабовато коррелируют между собой, поэтому применять вместе.
+
 ### ["Global supply chain disruptions: evolution, impact, outlook", Igan D., Rungcharoenkitkul P., and Takahashi K.](https://www.bis.org/publ/bisbull61.pdf)
 Индексы supply-chain pressure от NY Fed (более supply-side) и Citi. Среднее удлинение фрахта в конце 2021 года - около 10 дней. Наиболее капиталоемкие отрасли и наиболее спецализированные из-за сложности производства естественно более центральны для цепей производства, так как меньше производств-заменителей. Плохие новости о возможном дефиците input-ов самосбывающиеся, так как меняется поведение в сторону накопления запасов. GVC-trade - is a value-added trade crossing border more than once. **Оценка bottleneck вклада в инфляцию 2Q2022 - 0.5-4.0 в зависимости от страны.** Климат, войны, госполитики по reshoring-у могут вновь повлиять на supply-chain инфляцию довольно быстро.
 
