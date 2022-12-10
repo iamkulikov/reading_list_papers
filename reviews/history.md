@@ -2,6 +2,9 @@
 
 [<< Все статьи](../README.md)
 
+### ["The Economic  Organisation of a P.O.W. Camp", Radford R.](http://homepage.ntu.edu.tw/~yitingli/file/Money%20and%20Banking/The%20Economic%20Organisation%20of%20a%20P.O.W.%20Camp.pdf)
+Сигареты - деньги. Что-то типа форвардов: хлеб-сегодня и хлеб-понедельник. Арбитраж. Циклы предложения денег и инфляция. Внешняя торговля с барьерами. Удивило, что описана довольно хорошая в смысле снабжения жизнь. Видимо благодаря посылкам Красного Креста.
+
 ### ["Catching-up and falling behind: Russian economic growth, 1690s-1880s", Korchmina E.](https://www.academia.edu/83059479/Catching_up_and_falling_behind_Russian_economic_growth_1690s_1880s)
 Посмотреть ссылки еще отсюда
 

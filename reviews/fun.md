@@ -2,8 +2,8 @@
 
 [<< Все статьи](../README.md)
 
-### ["The Economic  Organisation of a P.O.W. Camp", Radford R.](https://fermatslibrary.com/s/the-economic-organization-of-a-pow-camp)
-Сигареты как деньги в концлагере.
+### ["The Economic  Organisation of a P.O.W. Camp", Radford R.](http://homepage.ntu.edu.tw/~yitingli/file/Money%20and%20Banking/The%20Economic%20Organisation%20of%20a%20P.O.W.%20Camp.pdf)
+Сигареты - деньги. Что-то типа форвардов: хлеб-сегодня и хлеб-понедельник. Арбитраж. Циклы предложения денег и инфляция. Внешняя торговля с барьерами. Удивило, что описана довольно хорошая в смысле снабжения жизнь. Видимо благодаря посылкам Красного Креста.
 
 ### ["The theory of Interstellar trade", Paul Krugman](https://www.princeton.edu/~pkrugman/interstellar.pdf)
 

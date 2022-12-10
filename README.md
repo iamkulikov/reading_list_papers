@@ -9,16 +9,26 @@
 ### "Open economy macroeconomics. Chapter 1", Uribe M., Schmitt-Grohe S.
 Факты о бизнес-циклах.
 
-### ["The Economic  Organisation of a P.O.W. Camp", Radford R.](https://fermatslibrary.com/s/the-economic-organization-of-a-pow-camp)
-Сигареты как деньги в концлагере.
-
 ### ["Networks and the Macroeconomy: An Empirical Exploration", Acemoglu D., Akcigit U., Kerr W.](https://economics.mit.edu/sites/default/files/inline-files/Networks%20and%20the%20Macroeconomy%20-%20An%20Empirical%20Exploration.pdf)
 Из какого сборника? Handbook of what?
 
 ### ["Catching-up and falling behind: Russian economic growth, 1690s-1880s", Korchmina E.](https://www.academia.edu/83059479/Catching_up_and_falling_behind_Russian_economic_growth_1690s_1880s)
 Посмотреть ссылки еще отсюда
 
+### Рынок труда
+
+https://wp.hse.ru/data/2022/09/22/1740280233/WP3_2022_07_________.pdf
+https://wp.hse.ru/data/2022/07/25/1618057186/WP3_2022_05___.pdf
+https://wp.hse.ru/data/2022/04/22/1781416758/WP3_2022_03________.pdf
+https://wp.hse.ru/data/2021/12/13/1776209980/WP3_2021_10_____.pdf
+https://wp.hse.ru/data/2021/09/03/1417434423/WP3_2021_08_____.pdf
+https://wp.hse.ru/data/2019/03/25/1188277910/WP3_2019_02_____f.pdf
+https://wp.hse.ru/data/2018/11/22/1141747264/WP3_2018_06__site.pdf
+
 ## 2022
+
+### ["The Economic  Organisation of a P.O.W. Camp", Radford R.](http://homepage.ntu.edu.tw/~yitingli/file/Money%20and%20Banking/The%20Economic%20Organisation%20of%20a%20P.O.W.%20Camp.pdf)
+Сигареты - деньги. Что-то типа форвардов: хлеб-сегодня и хлеб-понедельник. Арбитраж. Циклы предложения денег и инфляция. Внешняя торговля с барьерами. Удивило, что описана довольно хорошая в смысле снабжения жизнь. Видимо благодаря посылкам Красного Креста.
 
 ### ["Understanding economic openness: a review of existing measures", Gräbner C., Heimberger P., Kapeller J., Springholz  F.](https://link.springer.com/article/10.1007/s10290-020-00391-1)
 Торговая и финансовая, де-юре и де-факто. Слабовато коррелируют между собой, поэтому применять вместе или гибридную KOF. Внешний товарооборот отрицательно коррелирует с размером, для регионов - с удаленностью от границ. Как идея - относить к населению, но корректировать как-то на доходы. Для торговой де-юре: всякие комбинации уровней тарифов, доходов от пошлин и нетарифных барьеров. Для финансовой де-факто: варианты внешних активов и пассивов (можно без резервов и гос). Для финансовой де-юре: нормальные базируются на AREAЕR, включая Chinn-Ito (KAOPEN). Chinn-Ito: множественность курсов, ограничения на текущий счет, ограничения на финансовый, требования по продаже валютной выручки (**surrender! of export proceeds**) -> PCA. Лучший гибридный: KOF Globalization Index (Swiss Economic Institute), но лаг - 3 года. Посмотреть как организован репозиторий.
