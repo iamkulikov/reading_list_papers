@@ -9,8 +9,6 @@
 ### "Open economy macroeconomics. Chapter 1", Uribe M., Schmitt-Grohe S.
 Факты о бизнес-циклах.
 
-### ["Networks and the Macroeconomy: An Empirical Exploration", Acemoglu D., Akcigit U., Kerr W.](https://economics.mit.edu/sites/default/files/inline-files/Networks%20and%20the%20Macroeconomy%20-%20An%20Empirical%20Exploration.pdf)
-Из какого сборника? Handbook of what?
 
 ### ["Catching-up and falling behind: Russian economic growth, 1690s-1880s", Korchmina E.](https://www.academia.edu/83059479/Catching_up_and_falling_behind_Russian_economic_growth_1690s_1880s)
 Посмотреть ссылки еще отсюда
@@ -27,16 +25,24 @@ https://wp.hse.ru/data/2018/11/22/1141747264/WP3_2018_06__site.pdf
 
 ## 2022
 
+### ["Networks and the Macroeconomy: An Empirical Exploration", Acemoglu D., Akcigit U., Kerr W.](https://economics.mit.edu/sites/default/files/inline-files/Networks%20and%20the%20Macroeconomy%20-%20An%20Empirical%20Exploration.pdf)
+
+Из какого сборника? Handbook of what?
+
 ### ["The Economic  Organisation of a P.O.W. Camp", Radford R.](http://homepage.ntu.edu.tw/~yitingli/file/Money%20and%20Banking/The%20Economic%20Organisation%20of%20a%20P.O.W.%20Camp.pdf)
+
 Сигареты - деньги. Что-то типа форвардов: хлеб-сегодня и хлеб-понедельник. Арбитраж. Циклы предложения денег и инфляция. Внешняя торговля с барьерами. Удивило, что описана довольно хорошая в смысле снабжения жизнь. Видимо благодаря посылкам Красного Креста.
 
 ### ["Understanding economic openness: a review of existing measures", Gräbner C., Heimberger P., Kapeller J., Springholz  F.](https://link.springer.com/article/10.1007/s10290-020-00391-1)
+
 Торговая и финансовая, де-юре и де-факто. Слабовато коррелируют между собой, поэтому применять вместе или гибридную KOF. Внешний товарооборот отрицательно коррелирует с размером, для регионов - с удаленностью от границ. Как идея - относить к населению, но корректировать как-то на доходы. Для торговой де-юре: всякие комбинации уровней тарифов, доходов от пошлин и нетарифных барьеров. Для финансовой де-факто: варианты внешних активов и пассивов (можно без резервов и гос). Для финансовой де-юре: нормальные базируются на AREAЕR, включая Chinn-Ito (KAOPEN). Chinn-Ito: множественность курсов, ограничения на текущий счет, ограничения на финансовый, требования по продаже валютной выручки (**surrender! of export proceeds**) -> PCA. Лучший гибридный: KOF Globalization Index (Swiss Economic Institute), но лаг - 3 года. Посмотреть как организован репозиторий.
 
 ### ["Useful Microeconomics", Real Progress Blog ](http://realprogressinenglish.blogspot.com/2022/11/useful-microeconomics.html?utm_source=econ-academics-widget&utm_medium=widget&utm_campaign=econ-academics-widget)
+
 Неплохой reading list, **чтобы освежить микроэкономику - брать отсюда**. Разделы: оптимизационные модели д/х и фирм, благосостояние и неравенство, базовая теория игр, social choice, регулирование естественных монополий, поведенческая экономика, измерение рыночной силы, вход на рынок и инновации.
 
 ### ["Fiscal Rules and Fiscal Councils Recent Trends and Performance during the COVID-19 Pandemic", IMF](https://www.imf.org/external/datamapper/fiscalrules/map/map.htm)
+
 Половина стран имеет хотя бы одно бюджетное правило. Растет и число стран, и среднее количество правил на страну. Растет гибкость (включая escape clause). Из стран с правилами, **80% имеют как минимум долговое, 70% имеют долговое + какое-то операционное** (типа потолка дефицита). После пандемии у половины стран с потолком долга он пробит, дефицит пробивали почти все. Есть оценка strength и мэппинг WEO переменных в целевые бюджетные.
 
 ### ["Multinationals, global value chains, and the welfare impacts of economic sanctions", Du X., Wang Z.](https://sites.google.com/site/icebergzw/research)
