@@ -7,24 +7,25 @@
 ## Прочесть
 
 ### "Open economy macroeconomics. Chapter 1", Uribe M., Schmitt-Grohe S.
+
 Факты о бизнес-циклах.
 
 
 ### ["Catching-up and falling behind: Russian economic growth, 1690s-1880s", Korchmina E.](https://www.academia.edu/83059479/Catching_up_and_falling_behind_Russian_economic_growth_1690s_1880s)
+
 Посмотреть ссылки еще отсюда
 
-### Рынок труда
 
-https://wp.hse.ru/data/2021/12/13/1776209980/WP3_2021_10_____.pdf
-https://wp.hse.ru/data/2021/09/03/1417434423/WP3_2021_08_____.pdf
-https://wp.hse.ru/data/2019/03/25/1188277910/WP3_2019_02_____f.pdf
-https://wp.hse.ru/data/2018/11/22/1141747264/WP3_2018_06__site.pdf
 
 ## 2022
 
 ### ["Networks and the Macroeconomy: An Empirical Exploration", Acemoglu D., Akcigit U., Kerr W.](https://economics.mit.edu/sites/default/files/inline-files/Networks%20and%20the%20Macroeconomy%20-%20An%20Empirical%20Exploration.pdf)
 
 Из какого сборника? Handbook of what?
+
+### ["Lasting Scars: The Impact of Depression in Early Adulthood on Subsequent Labor Market", Wang B., Frank R., Glied S.](https://www.nber.org/system/files/working_papers/w30776/w30776.pdf)
+
+Депрессии в молодости приводят к потере около 25% з/п. Треть эффекта - из-за повторяемости, до половины - из-за недополученного в молодости человеческого капитала.
 
 ### ["Оценки человеческого капитала в исследованиях экономического роста: обзор", Авдеева Д.](https://wp.hse.ru/data/2022/04/22/1781416758/WP3_2022_03________.pdf)
 
@@ -204,6 +205,10 @@ R* получается из OLG-модели, в которой мир - одн
 ### ["Demographic trends and the real interest rate", Lisack N., Sajedi R., Thwaites G.](https://www.bankofengland.co.uk/working-paper/2017/demographic-trends-and-the-real-interest-rate)
 
 ### ["Demographics will reverse three multi-decade global trends", Goodhart C., Pradhan M.](https://www.bis.org/publ/work656.htm#:~:text=Between%20the%201980s%20and%20the,into%20the%20World%20Trade%20Organization)
+
+### ["Феномен старения населения: экономические эффекты", Капелюшников Р.](https://wp.hse.ru/data/2018/11/22/1141747264/WP3_2018_06__site.pdf)
+
+2/3 старения - снижение рождаемости, 1/3 - снижение смертности. Возрастные коэффициенты смертности падают, но общий из-за старения все равно растет. Функциональный статус улучшается: 10 лет здоровых возрастов за 50 лет. Коэффициенты нагрузки и зависимости важно корректировать на экономический (участие в рс и т.д.) и функциональный (здоровье) статус, разную величину потребностей иждивенцев (0.75 -> 1 -> 1.25). Разница для России - в полтора раза, скорректированные - пессимистичнее. Пропорция между числом «здоровых» и «нездоровых» лет взрослой жизни остается более или менее константой. Это означает, что в абсолютном выражении прибавка к здоровой жизни больше прибавки нездоровой жизни (поскольку первая в среднем длиннее второй). Институциональные барьеры: программы досрочного выхода на пенсию, установление низкой официальной планки пенсионного возраста, высокие налоги на фонд оплаты труда. Перспективный возраст - ожидаемое число лет жизни до смерти. При таким подходе прирост доли пожилых за период 1950–2050 гг. оказывается 3 п.п., а не 10 п.п. Посмотреть базу National Transfer Accounts на тему правильных коэффициентов поддержки (обратный к нагрузке). Дочитал до стр. 38.
 
 ### ["Money in the modern economy: an introduction", Mcleay M., Radia A., Thomas R.](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-in-the-modern-economy-an-introduction)
 
