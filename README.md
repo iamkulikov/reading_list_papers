@@ -2,22 +2,23 @@
 
 По году прочтения: [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [Лучшее из более ранних](#лучшее-из-более-ранних)
 
-По темам: [Макромодели](reviews/models.md), [Методологии и статистика](reviews/meth.md), [Государство](reviews/fiscal.md), [Демография](reviews/demography.md), [Рынок труда и доходы](reviews/labor.md), [Кризисы](reviews/crisis.md), [Экономический рост](reviews/growth.md), [Инфляция](reviews/inflation.md), [Денежное обращение и ДКП](reviews/money.md), [Ожидания](reviews/expect.md), [Финстресс](reviews/FSI.md), [Кредитные риски](reviews/defaults.md), [Глобальная торговля](reviews/trade.md), [Транспорт](reviews/transport.md), [Эконометрика](reviews/econometrics.md), [Сети и графы](reviews/network.md), [Природные ресурсы](reviews/nature.md), [Санкции](reviews/sanctions.md), [История](reviews/history.md), [ЦБ лучшее](reviews/cbr.md), [Фан](reviews/fun.md), [Списки](reviews/reading_lists.md), [Написанное мной](reviews/my.md), [To-Do](reviews/todo.md)
+По темам: [Макромодели](reviews/models.md), [Методологии и статистика](reviews/meth.md), [Государство](reviews/fiscal.md), [Демография](reviews/demography.md), [Рынок труда и доходы](reviews/labor.md), [Кризисы](reviews/crisis.md), [Экономический рост](reviews/growth.md), [Инфляция](reviews/inflation.md), [Денежное обращение и ДКП](reviews/money.md), [Ожидания](reviews/expect.md), [Финстресс](reviews/FSI.md), [Кредитные риски](reviews/defaults.md), [Глобальная торговля](reviews/trade.md), [Транспорт](reviews/transport.md), [Эконометрика](reviews/econometrics.md), [Сети и графы](reviews/network.md), [Природные ресурсы](reviews/nature.md), [Санкции](reviews/sanctions.md), [История](reviews/history.md), [Фан](reviews/fun.md), [Списки](reviews/reading_lists.md), [Написанное мной](reviews/my.md), [To-Do](reviews/todo.md)
 
 ## Прочесть
 
 ### "Open economy macroeconomics. Chapter 1", Uribe M., Schmitt-Grohe S.
 
-Факты о бизнес-циклах.
+Стилизованные факты о бизнес-циклах. Есть ли неочевидные?
 
 
 ### ["Catching-up and falling behind: Russian economic growth, 1690s-1880s", Korchmina E.](https://www.academia.edu/83059479/Catching_up_and_falling_behind_Russian_economic_growth_1690s_1880s)
 
-Посмотреть ссылки еще отсюда
+Посмотреть ссылки еще отсюда.
 
 
 
 ## 2022
+[Наверх](#экономические-статьи)
 
 ### ["Networks and the Macroeconomy: An Empirical Exploration", Acemoglu D., Akcigit U., Kerr W.](https://economics.mit.edu/sites/default/files/inline-files/Networks%20and%20the%20Macroeconomy%20-%20An%20Empirical%20Exploration.pdf)
 
@@ -150,7 +151,9 @@ R* получается из OLG-модели, в которой мир - одн
 
 ### ["MARTIN Gets a Bank Account: Adding a Banking Sector to the RBA's Macroeconometric Model", RBA](https://www.rba.gov.au/publications/rdp/2022/2022-01.html)
 
+
 ## 2021
+[Наверх](#экономические-статьи)
 
 ### ["Global recessions", Kose M., Sugawara N., Terrones M.](https://openknowledge.worldbank.org/handle/10986/33415)
 
@@ -169,11 +172,13 @@ R* получается из OLG-модели, в которой мир - одн
 ### ["Концепция цифрового рубля", Банк России](http://www.cbr.ru/content/document/file/120075/concept_08042021.pdf)
 
 ### ["Современная денежная теория (ММТ): новая парадигма или набор рекомендаций для макроэкономической политики?", Грищенко В., Остапенко В., Ткачев В., Тунёв В.](https://ecpolicy.ru/upload/iblock/de0/001_%D0%93%D1%80%D0%B8%D1%89%D0%B5%D0%BD%D0%BA%D0%BE.pdf)
+
 Предпосылки: неоптимизирующие люди, беневолентное правительство. Убеждения: эндогенность денежной массы, отсутствие вытеснения частных инвестиций, малый эффект переноса валютного курса, малая эластичность инвестиций по процентным ставкам. Линия рассуждения: инфляция - это продукт спроса только при полной занятости, чаще - просто война наценок, поэтому в норме стимулирование спроса не опасно (?). Отклонение вниз от потенциала - это следствие неопределенности будущего, поэтому нужно стимулировать спрос и в норме. Фискальные меры действуют быстрее, чем изменение процентных ставок, поэтому фискальный стимул лучше. Безработица опаснее инфляции. Рекомендуемые политики: гарантированная занятость (NAIBER вместо NAIRU), гибкий обменный курс, таргетирование процентных ставок (на низком уровне). Налоги не являются средством финансирования расходов. Напротив, осуществление расходов является необходимым условием последующего получения государством налоговых поступлений. QE - не нравится, так как рост банковских резервов не простимулирует кредитование. Отрицательные ставки не нравятся, так как это новый налог на банки, но новый налог в условиях недолетра инфляции - это дестимулирует. В целом, корень разногласий - в оценке потенцального роста и безопасности высокого уровня долга к ВВП. 
 
 > ... рекомендации ММТ по макроэкономической политике вряд ли выходят за пределы левокейнсианского консенсуса в дискуссиях 1940–1970-х годов, перенесенного на современную фиатную почву."
 
 ### ["How Could Russia Have Developed without the Revolution of 1917?", Korolev I.](https://www.jstor.org/stable/10.15609/annaeconstat2009.144.0075)
+
 СССР понадобилось 12-15 лет, чтобы преодолеть спад производства - ожидал большего срока. А из техники порадовало даже на само построение counterfactual с привязкой к другим странам, а набор методов, чтобы проверить его адекватность.
 
 ### ["Inflation Dynamics: Dead, Dormant, or Determined Abroad?", Forbes K.J.](https://www.brookings.edu/bpea-articles/inflation-dynamics-dead-dormant-or-determined-abroad/)
@@ -183,11 +188,15 @@ R* получается из OLG-модели, в которой мир - одн
 ### ["Sins of Omission and the Practice of Economics", Akerlof G.](https://www.aeaweb.org/articles?id=10.1257/jel.20191573)
 
 ### ["The UK recession in context — what do three centuries of data tell us?", BoE](https://www.bankofengland.co.uk/quarterly-bulletin/2010/q4/the-uk-recession-in-context-what-do-three-centuries-of-data-tell-us)
+
 Сейчас уже сделали millennium of data с 1086 года.
 
+
 ## 2020
+[Наверх](#экономические-статьи)
 
 ### ["How Frequently Do Sovereigns Default on Local Currency Debt?", BoE](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/how-frequently-do-sovereigns-default-on-local-currency-debt.pdf?la=en&hash=62205B4AB0B476C576442F70C03F61E1915EA9C1)
+
 Суверенные LC дефолты начались в 90-ые, так как локальный госдолг начал расти, рынки развиваться. За последнее 10-летие в год 5-10 дефолтят по FC, 2-3 по LC.
 
 ### ["Economic crises and mortality among the elderly. Evidence from two Russian crises", Margarita Khvan, Elizaveta Smorodenkova, Evgeny Yakovlev](https://www.nes.ru/files/Preprints-resh/WP266.pdf)
@@ -216,7 +225,9 @@ R* получается из OLG-модели, в которой мир - одн
 
 ### ["Оценка фискальных мультипликаторов в российской экономике", Зяблицкий](https://ej.hse.ru/data/2020/06/28/1610022291/%D0%97%D1%8F%D0%B1%D0%BB%D0%B8%D1%86%D0%BA%D0%B8%D0%B9.pdf)
 
+
 ## 2019
+[Наверх](#экономические-статьи)
 
 ### ["Should we care? The economic effects of financial sanctions", Pestova, Mamonov](https://helda.helsinki.fi/bof/bitstream/handle/123456789/16219/dp1319.pdf?sequence=3)
 
@@ -253,10 +264,11 @@ R* получается из OLG-модели, в которой мир - одн
 ### ["Manual on Government Deficit and Debt", Eurostat](https://ec.europa.eu/eurostat/documents/3859598/10042108/KS-GQ-19-007-EN-N.pdf/5d6fc8f4-58e3-4354-acd3-a29a66f2e00c)
 
 
-
 ## 2018
+[Наверх](#экономические-статьи)
 
 ### [Отличные explainer-ы от Резервного Банка Австралии](https://www.rba.gov.au/education/resources/explainers/)
+
 Платежный баланс, деньги, ДКП, курс и т.д. Пример того, какие темы можно простыми словами рассказать с 1-2 графиками.
 
 ### ["Экономический рост в России с учетом демографических изменений и вклада человеческого капитала", Акиндинова Н.В., Чекина К.С., Яркин А.М.](https://ej.hse.ru/data/2017/12/28/1160681432/%D0%90%D0%BA%D0%B8%D0%BD%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0.pdf)
@@ -278,8 +290,8 @@ R* получается из OLG-модели, в которой мир - одн
 ### ["How to select fiscal rules : a primer", IMF](https://www.imf.org/en/Publications/Fiscal-Affairs-Department-How-To-Notes/Issues/2018/03/15/How-to-Select-Fiscal-Rules-A-Primer-45552)
 
 
-
 ## 2017
+[Наверх](#экономические-статьи)
 
 ### ["China's GDP growth may be understated", Hunter Clark, Maxim Pinkovskiy, Xavier Sala-i-Martin](https://www.nber.org/system/files/working_papers/w23323/w23323.pdf)
 
@@ -296,7 +308,9 @@ R* получается из OLG-модели, в которой мир - одн
 ### ["Неравенство: как не примитивизировать проблему", Капелюшников Р.](https://polit.ru/article/2017/04/15/inequality/)
 Неравенство по доходам, располагаемым доходам, потреблению (ниже из-за заимствований и сбережений) и богатству. Д/х vs люди. Неравенство по потреблению "ближе" к оценке неравенства в благосостоянии или его потока, так как потребление в функции полезности, а не доходы. Неравенство в пожизненных доходах всегда меньше, так как обычным захватываем разные возраста и случайные колебания во времени. По доходам и богатству слабо коррелирует на уровне стран, типичный пример - Дания и Швеция (высокое в богатстве, низкое в доходах). Метод измерения неравенства по богатству на основе налога на наследство умерших. Оставание системы образования от прогресса как причина роста неравенства и разбор других возможных факторов. Гимн дотошности.
 
+
 ## 2016
+[Наверх](#экономические-статьи)
 
 ### ["The Facts of Economic Growth. Handbook of Macroeconomics, Volume 2A", C.I. Jones](https://web.stanford.edu/~chadj/facts.pdf)
 
@@ -329,8 +343,8 @@ R* получается из OLG-модели, в которой мир - одн
 ### ["PPP Calculation and Estimation", WB](https://www.worldbank.org/en/programs/icp/brief/methodology-calculation)
 
 
-
-## Лучшее из более ранних {#лучшее-из-более-ранних}
+## Лучшее из более ранних
+[Наверх](#экономические-статьи)
 
 ### ["Do debt service costs affect macroeconomic and financial stability?", Mathias Drehmann, Mikael Juselius, BIS](https://www.bis.org/publ/qtrpdf/r_qt1209e.pdf)
 
