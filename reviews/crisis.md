@@ -2,6 +2,7 @@
 
 [<< Все статьи](../README.md)
 
+Доотсортировать аннотации с рабочего диска
 
 ### ["Learning from a Century of US Recessions", Goldman Sachs Economic Research](https://www.goldmansachs.com/insights/pages/learning-from-a-century-us-recessions/report.pdf)
 

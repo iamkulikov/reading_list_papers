@@ -2,6 +2,8 @@
 
 [<< Все статьи](../README.md)
 
+Где лежит обзор по Input-Output?
+
 ### ["Networks and the Macroeconomy: An Empirical Exploration", Acemoglu D., Akcigit U., Kerr W.](https://economics.mit.edu/sites/default/files/inline-files/Networks%20and%20the%20Macroeconomy%20-%20An%20Empirical%20Exploration.pdf)
 Из какого сборника? Handbook of what?
 

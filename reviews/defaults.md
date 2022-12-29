@@ -3,6 +3,7 @@
 [<< Все статьи](../README.md)
 
 Reinhart, Rogoff и аналоги перенести из материалов к методологии SOV
+
 Кредитные риски перенести и доописать, что уже лежит
 
 ### ["BoC–BoE Sovereign Default Database: What’s New in 2022?"](https://www.bankofengland.co.uk/-/media/boe/files/statistics/research-datasets/whats-new-in-2022.pdf?la=en&hash=6F498BC56486FE458DA50F855B0EF079FC5C41AA)
