@@ -4,6 +4,8 @@
 
 По методам перенести из нашего тренинга
 
+### ["Seasonal Adjustment of Daily Time Series"](https://www.bundesbank.de/resource/blob/763892/f5cd282cc57e55aca1eb0d521d3aa0da/mL/2018-10-17-dkp-41-data.pdf)
+
 ### ["Machine learning at central banks", Chakraboty, Joseph, BoE](https://www.bankofengland.co.uk/working-paper/2017/machine-learning-at-central-banks)
 
 Обзор методов и примеров применения. Полезно, как набор ссылок.

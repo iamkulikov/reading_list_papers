@@ -4,7 +4,8 @@
 
 По темам: [Макромодели](reviews/models.md), [Методологии и статистика](reviews/meth.md), [Государство](reviews/fiscal.md), [Демография](reviews/demography.md), [Рынок труда и доходы](reviews/labor.md), [Кризисы](reviews/crisis.md), [Экономический рост](reviews/growth.md), [Инфляция](reviews/inflation.md), [Денежное обращение и ДКП](reviews/money.md), [Ожидания](reviews/expect.md), [Финстресс](reviews/FSI.md), [Кредитные риски](reviews/defaults.md), [Глобальная торговля](reviews/trade.md), [Транспорт](reviews/transport.md), [Эконометрика](reviews/econometrics.md), [Сети и графы](reviews/network.md), [Природные ресурсы](reviews/nature.md), [Санкции](reviews/sanctions.md), [История](reviews/history.md), [Фан](reviews/fun.md), [Списки](reviews/reading_lists.md), [Написанное мной](reviews/my.md), [To-Do](reviews/todo.md)
 
-## Прочесть
+## 2023
+[Наверх](#экономические-статьи)
 
 ### "Open economy macroeconomics. Chapter 1", Uribe M., Schmitt-Grohe S.
 
@@ -15,6 +16,7 @@
 
 Посмотреть ссылки еще отсюда.
 
+### ["Supply chains, trade, and inflation", Giovanni J., Kalemli-Ozcan S., Silva A., Yildirim M.](https://cepr.org/voxeu/columns/supply-chains-trade-and-inflation)
 
 
 ## 2022
@@ -152,6 +154,9 @@ R* получается из OLG-модели, в которой мир - одн
 
 ## 2021
 [Наверх](#экономические-статьи)
+
+### ["Seasonal Adjustment of Daily Time Series"](https://www.bundesbank.de/resource/blob/763892/f5cd282cc57e55aca1eb0d521d3aa0da/mL/2018-10-17-dkp-41-data.pdf)
+
 
 ### ["Global recessions", Kose M., Sugawara N., Terrones M.](https://openknowledge.worldbank.org/handle/10986/33415)
 
