@@ -41,6 +41,10 @@ R* получается из OLG-модели, в которой мир - одн
 
 ### ["China’s Evolving Monetary Policy Framework in International Context", Jones B., Bowman J.](https://www.rba.gov.au/publications/rdp/2019/2019-11.html)
 
+["О влиянии роста бюджетного дефицита на ключевую ставку Банка России", А. Морозов, С. Власов](http://www.cbr.ru/content/document/file/16755/analytic_note_4.pdf)
+
+Оцененная эластичность ключевой ставки Банка России по бюджетному дефициту, финансируемому из средств Резервного фонда, составляет порядка 1 (1 п.п. на 1% ВВП дефицита). Негативные последствия от дополнительного бюджетного дефицита для инфляции и процентных ставок исчезают через несколько лет после шока. Более активная политика госзаимствований на финансовом рынке позволяет обойтись меньшим ужесточением денежно-кредитной политики в качестве реакции на шок бюджетной политики.
+
 ### ["Demographic trends and the real interest rate", Lisack N., Sajedi R., Thwaites G. ](https://www.bankofengland.co.uk/working-paper/2017/demographic-trends-and-the-real-interest-rate)
 
 ### ["Demographics will reverse three multi-decade global trends", Goodhart C., Pradhan M. ](https://www.bis.org/publ/work656.htm#:~:text=Between%20the%201980s%20and%20the,into%20the%20World%20Trade%20Organization)

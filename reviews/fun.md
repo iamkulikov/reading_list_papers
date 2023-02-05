@@ -2,6 +2,14 @@
 
 [<< Все статьи](../README.md)
 
+### ["Talent vs Luck: the role of randomness in success and failure", A. Pluchino, A. E. Biondo, A. Rapisarda](https://arxiv.org/pdf/1802.07068.pdf)
+
+Модель, в которой с очень простыми правилами из нормального распределения способностей получается распределение Парето по богатству. Зачем-то введено физическое пространство с тороидальной топологией. Иллюстрирует важность случайности, но калибровки и эмпирики никакой нет, поэтому к реальному миру может не относиться.
+
+### ["Colder Weather and Fewer Sunlight Hours Increase Alcohol Consumption and Alcoholic Cirrhosis Worldwide", ](https://aasldpubs.onlinelibrary.wiley.com/doi/abs/10.1002/hep.30315)
+
+Ожидаемый вывод, но полный текст не качается. Узнал про [классификацию климатов Кёппена](https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification) с количественными критериями и буквенной кодировкой: зона+влажность+теплота.
+
 ### ["The Economic  Organisation of a P.O.W. Camp", Radford R.](http://homepage.ntu.edu.tw/~yitingli/file/Money%20and%20Banking/The%20Economic%20Organisation%20of%20a%20P.O.W.%20Camp.pdf)
 
 Сигареты - деньги. Что-то типа форвардов: хлеб-сегодня и хлеб-понедельник. Арбитраж. Циклы предложения денег и инфляция. Внешняя торговля с барьерами. Удивило, что описана довольно хорошая в смысле снабжения жизнь. Видимо благодаря посылкам Красного Креста.

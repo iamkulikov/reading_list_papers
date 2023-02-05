@@ -4,6 +4,12 @@
 
 Доотсортировать аннотации с рабочего диска
 
+["Do Foreign Yield Curves Predict U.S. Recessions and GDP Growth?", M. Chinn, R. Ahmed](https://www.nber.org/system/files/working_papers/w30737/w30737.pdf)
+
+Неамериканский term-spread (G7, 10Y-3m) предсказывает американские рецессии. По-видимому ловит спиловер американского term-spread, укрепление доллара и падение экспорта.
+
+###[Страновые расширенные определения рецессий на Econbrowser](http://econbrowser.com/archives/2022/12/some-empirical-definitions-of-recession-around-the-world-an-incomplete-list)
+
 ### ["Learning from a Century of US Recessions", Goldman Sachs Economic Research](https://www.goldmansachs.com/insights/pages/learning-from-a-century-us-recessions/report.pdf)
 
 Качественное разложение 18 рецессий по пяти "причинам": промышленность, нефть, монетарное (инфляция + ужесточение), финансы, фискальное. Методики мало, но само деление любопытное.
