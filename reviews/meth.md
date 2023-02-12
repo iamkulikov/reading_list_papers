@@ -41,6 +41,10 @@
 
 ### ["Econometric Perspectives on Economic Measurement", Adam Gorajek](https://www.rba.gov.au/publications/rdp/2018/2018-08.html)
 
+### ["Seasonal Adjustment of Daily Time Series"](https://www.bundesbank.de/resource/blob/763892/f5cd282cc57e55aca1eb0d521d3aa0da/mL/2018-10-17-dkp-41-data.pdf)
+
+### ["Handbook of Seasonal Adjustment. 2018 Edition", Eurostat](https://ec.europa.eu/eurostat/documents/3859598/8939616/KS-GQ-18-001-EN-N.pdf)
+
 ### ["Методология прогноза по демографии", UNDP](https://population.un.org/wpp/Publications/Files/WPP2022_Methodology.pdf)
 
 ### ["Government Finance Statistics Manual 2014 (GFSM 2014)", IMF](https://www.imf.org/external/pubs/ft/gfs/manual/gfs.htm)
