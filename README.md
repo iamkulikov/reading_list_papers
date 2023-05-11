@@ -7,6 +7,30 @@
 ## 2023
 [Наверх](#экономические-статьи)
 
+### ["A Cross-Country Database of Fiscal Space", M. Kose, S. Kurlat, F. Ohnsorge, N. Sugawara](https://documents1.worldbank.org/curated/en/601211501678994591/pdf/WPS8157.pdf)
+
+
+
+### ["The Effects of Inflation on Public Finances", D. Garcia-Macia](https://www.imf.org/en/Publications/WP/Issues/2023/05/05/The-Effects-of-Inflation-on-Public-Finances-533099)
+
+**Инфляционные шоки временно улучшают балансы бюджетов**, так как доходы следуют за инфляцией непрерывно, а расходы - с лагом. Они же **приводят к перманентому снижению долга к ВВП**, как за счет улучшения первичного баланса, так и из-за роста номинального ВВП. Рост инфляционных ожиданий не улучшает динамику долга.
+
+### ["Can Deficits Finance Themselves?", G. Angeletos, C. Lian, C. K. Wolf](https://www.nber.org/system/files/working_papers/w31185/w31185.pdf)
+
+
+
+### ["The Ancient Origins of the Wealth of Nations", Q. Ashraf, O. Galor, M. Klemp](https://www.cesifo.org/DocDL/cesifo1_wp8624.pdf)
+
+**Краткая версия книги "Путь человечества. Истоки богатства и неравенства"**. Основные графики и цифры про влияние разнообразия населения на богатство. Относительная важность институтов, закона, истории и географии.
+
+### ["Exposure, Experience, and Expertise: Why Personal Histories Matter in Economics", U. Malmendier](https://www.nber.org/system/files/working_papers/w29336/w29336.pdf)
+
+**Личная история, особенно неприятная, формирует паттерны поведния на всю жизнь**. Применимо, как минимум, к инфляционным ожиданиям, покупке жилья и уровню потребления.
+
+### ["Determinants of financial stress in emerging market economies", C. Park, R. V. Mercado](https://www.adb.org/sites/default/files/publication/30317/ewp-356.pdf)
+
+**Asian Development Bank FSIs**, ежемесячные. Страны Азии. Пять факторов: бэта банковского сектора, доходность акций, волатильность индекса акций, 10-2y спреды гособлигаций, индекс давления на валютном рынке (EMPI). Веса - первая главная компонента.
+
 ### ["Оценка макроэкономических эффектов от ожидаемого сокращения нефтегазовых доходов", М. Андреев, А. Полбин](https://www.vopreco.ru/jour/article/view/4318)
 
 Неплохой пример использования DSGE-модели для ответа на прикладной вопрос. Рассматриваются 40%, 60% и 80%-ное снижение нефтегазового экспорта (по стоимости) в вариантах с/без закрытого финансового счета ПБ, ожидаемое/неожиданное. **В долгосрочном периоде ВВП снижается на 7,1%, 10,7 и 14,2% соответственно**, а потребление домохозяйств — на 9,3%, 14,0 и 18,6% 

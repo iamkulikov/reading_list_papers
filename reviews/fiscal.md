@@ -2,6 +2,18 @@
 
 [<< Все статьи](../README.md)
 
+### ["A Cross-Country Database of Fiscal Space", M. Kose, S. Kurlat, F. Ohnsorge, N. Sugawara](https://documents1.worldbank.org/curated/en/601211501678994591/pdf/WPS8157.pdf)
+
+
+
+### ["The Effects of Inflation on Public Finances", D. Garcia-Macia](https://www.imf.org/en/Publications/WP/Issues/2023/05/05/The-Effects-of-Inflation-on-Public-Finances-533099)
+
+**Инфляционные шоки временно улучшают балансы бюджетов**, так как доходы следуют за инфляцией непрерывно, а расходы - с лагом. Они же **приводят к перманентому снижению долга к ВВП**, как за счет улучшения первичного баланса, так и из-за роста номинального ВВП. Рост инфляционных ожиданий не улучшает динамику долга.
+
+### ["Can Deficits Finance Themselves?", G. Angeletos, C. Lian, C. K. Wolf](https://www.nber.org/system/files/working_papers/w31185/w31185.pdf)
+
+
+
 ### ["Overcoming original sin: insights from a new dataset", M. Onen, H. S. Shin and G. Peter](https://www.bis.org/publ/work1075.pdf)
 
 База данных доли внешнего и FC облигационного госдолга для 25 EM-ов: внешний - с локальных источников, FC- с BISа. Вывод состоит в том, что **хотя связь между внешними и fc остается, но ослабела** - большие и средние EM-ы научились нормально занимать зарубежом в собственной валюте (то есть преодолоевают original sin). Тем не менее, наличие внешних держателей все равно делает их зависимыми от конъюнктуры глобальных финрынков. Доля FC больше, чем внешнего (то есть занимают в инвалюте и внутри) - в Филлипинах, Аргентине, Турции, Болгарии и Хорватии. В другую сторону наибольшая разница - в Чехии, Перу, ЮАР, Малайзии. В конце 2021 года доля FC у типичного EM-а была около 25%, доля типичного внешнего - 27%.
