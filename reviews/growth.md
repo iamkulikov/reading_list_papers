@@ -2,6 +2,10 @@
 
 [<< Все статьи](../README.md)
 
+### ["China's Macroeconomic Development: The Role of Gradualist Reforms", K. Chen, T. Zha](https://www.nber.org/system/files/working_papers/w31395/w31395.pdf)
+
+
+
 ### ["The Ancient Origins of the Wealth of Nations", Q. Ashraf, O. Galor, M. Klemp](https://www.cesifo.org/DocDL/cesifo1_wp8624.pdf)
 
 **Краткая версия книги "Путь человечества. Истоки богатства и неравенства"**. Основные графики и цифры про влияние разнообразия населения на богатство. Относительная важность институтов, закона, истории и географии.

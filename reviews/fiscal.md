@@ -2,6 +2,8 @@
 
 [<< Все статьи](../README.md)
 
+### ["Do Sovereign Wealth Funds Reduce Fiscal Policy Pro-cyclicality? New Evidence Using a Non-Parametric Approach"](https://www.imf.org/en/Publications/WP/Issues/2023/06/23/Do-Sovereign-Wealth-Funds-Reduce-Fiscal-Policy-Pro-cyclicality-New-Evidence-Using-a-Non-534319)
+
 ### ["Оценка влияния бюджетных правил на цикличность государственных расходов", А. Кудрин, И. Соколов, О. Сучкова](https://www.vopreco.ru/jour/article/view/4283)
 
 Наличие какого-либо правила не гарантирует ацикличность непроцентных расходов и снижение долга.
