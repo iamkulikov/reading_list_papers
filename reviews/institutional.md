@@ -8,7 +8,8 @@ The most widely used are composite perception-based indicators. Интерпре
 
 ### ["Do Governance Indicators Explain Development Performance? A Cross-Country Analysis", X. Han, H. Khan, J. Zhuang](https://www.adb.org/sites/default/files/publication/149397/ewp-417.pdf)
 
+В Азии, Северной Африке и на Ближнем Востоке страны в 1998-2011 росли быстрее в группе тех, у кого хорошие оценки по WGI.
 
 ### ["Governance Indicators: A User's guide", UNDP](https://anfrel.org/wp-content/uploads/2012/02/2007_UNDP_goveranceindicators.pdf)
 
-
+Определения терминов. Хорошая классификация по типу (факт, внешняя оценка, внутренняя оценка) и объекту оценки (де-юре, процесс де-факто и результат де-факто). Список основных баз данных по состоянию на 2004 год.
