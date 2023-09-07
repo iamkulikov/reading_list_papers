@@ -7,7 +7,13 @@
 ## 2023
 [Наверх](#экономические-статьи)
 
+### ["The joint impact of infrastructure and institutions on economic growth", Y. Z. Zergawu, Y. M. Walle, J. Gimenez-Gomez ](https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/abs/joint-impact-of-infrastructure-and-institutions-on-economic-growth/4E629858D93A81912B59076A5F659D2B#article)
 
+Инфраструктура дает больше возмоностей для роста при хороших институтах. 99 стран, 1980-2015.
+
+### ["Institutions, public debt and growth in Europe", K. Masuch, E. Moshammer, B. Pierluigi](https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1963.en.pdf)
+
+На панельных данных (7 стартовых точек: 1995-2002, 7 периодов роста: от 1995-2010 до 2002-2017) показывают, что в европейских странах рост за следующие пятнадцать лет объясняется богатством (конвергенцией), закредитованностью государства, качеством экономических институтов (4 из 6 WGI). **Госдолг меньше влияет при хороших институтах. Конвергенция - основной фактор с запасом.** Посмотреть отсюда еще ссылки.
 
 ### ["Institutions and economic development: theory, policy and history", H. Chang](https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/institutions-and-economic-development-theory-policy-and-history/483B04277F72313E9080AA3264997A93)
 
