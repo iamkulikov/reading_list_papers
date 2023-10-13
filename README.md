@@ -7,6 +7,8 @@
 ## 2023
 [Наверх](#экономические-статьи)
 
+### ["The IMF 2019 Financial Soundness Indicators Compilation Guide"](https://www.imf.org/en/Data/Statistics/FSI-guide)
+
 ### ["The Grand Unifying Theory (and practice) of Macroprudential Policy", M.Carney](https://www.bankofengland.co.uk/speech/2020/mark-carney-speech-at-university-college-london)
 
 МПП имеет трейдофы, нужно гарантировать не stability of the graveyard, а что-то другое. Предлагает воспринимать целевую функцию, как дисконтированную сумму будущих GDP at risk и собственно GDP growth с весами. Грубо говоря, мы платим за страховку более высокими нормативами по капиталу и негативными эффектами других мер. В Британии по капиталу считают оптимальным 11-14% взвешенных по риску активов.
