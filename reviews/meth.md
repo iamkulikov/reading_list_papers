@@ -2,6 +2,10 @@
 
 [<< Все статьи](../README.md)
 
+### ["Рекомендации, касающиеся статистического определения неформальной занятости", ILO](https://www.ilo.org/public/english/bureau/stat/download/guidelines/russian/defempl.pdf)
+
+Различаются: неформальная занятость, занятость в неформальном секторе и неформальная занятость вне неформального сектора.
+
 ### ["The IMF 2019 Financial Soundness Indicators Compilation Guide"](https://www.imf.org/en/Data/Statistics/FSI-guide)
 
 Определение и описание мотивации для всех показтелей CAMELS.
