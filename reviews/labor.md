@@ -2,7 +2,9 @@
 
 [<< Все статьи](../README.md)
 
-### ["Прогрессивность налогов на труд в России", Р. Леухин, А. Суслина]
+### ["Прогрессивность налогов на труд в России", Р. Леухин, А. Суслина](https://cyberleninka.ru/article/n/progressivnost-nalogov-na-trud-v-rossii-tekuschaya-situatsiya-i-otsenka-posledstviy-vozmozhnyh-variantov-reformy-ndfl/viewer)
+
+
 
 ### ["Сценарная оценка макроэкономических эффектов прогрессивного налогообложения в России", Е. Мартьянова, А. Полбин](https://www.finjournal-nifi.ru//images/FILES/Journal/Archive/2024/1/statii/01_1_2024_v16.pdf)
 
