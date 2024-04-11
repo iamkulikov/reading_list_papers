@@ -2,6 +2,10 @@
 
 [<< Все статьи](../README.md)
 
+### ["Designing a Progressive VAT", R. de la Feria, A. Swistak](https://www.imf.org/en/Publications/WP/Issues/2024/04/05/Designing-a-Progressive-VAT-546923)
+
+
+
 ### ["Do Sovereign Wealth Funds Reduce Fiscal Policy Pro-cyclicality? New Evidence Using a Non-Parametric Approach"](https://www.imf.org/en/Publications/WP/Issues/2023/06/23/Do-Sovereign-Wealth-Funds-Reduce-Fiscal-Policy-Pro-cyclicality-New-Evidence-Using-a-Non-534319)
 
 ### ["Оценка влияния бюджетных правил на цикличность государственных расходов", А. Кудрин, И. Соколов, О. Сучкова](https://www.vopreco.ru/jour/article/view/4283)
