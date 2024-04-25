@@ -8,6 +8,12 @@
 
 [Наверх](#экономические-статьи)
 
+### ["PPPs for policy making: a visual guide to using data from the ICP", WB](https://www.worldbank.org/en/programs/icp/brief/PPPs-for-Policy)
+
+### ["A comparison of different sources of purchasing power parity (PPPs) estimates", M. Rissanen, R. Inklaar](https://www.worldbank.org/en/programs/icp/brief/Sources_of_PPPs)
+
+Пять, а не два, частично независимых источника ППС: ICP (исходный источник для всех), WDI, WEO (с прогнозом), PWT (самый глубокий), CIA. Волны исследований в ICP: 2005, 2011-2017, 2021. В WDI за все годы с 1990-го сделана экстраполяция на основе разницы инфляций в стране и в США. Экстраполяция WEO и WDI отличается в основном из-за выбора разных дефляторов.
+
 ### ["Progressive tax reforms in flat tax countries", S. Barrios et al](https://joint-research-centre.ec.europa.eu/document/download/2bd30350-b712-4e04-a21a-8a345d53d9e7_en?filename=jrc115044.pdf)
 
 Страны с плоской шкалой подоходного налога в итоге в среднем меньше перераспределяют за счет всей системы (включая соцвзносы и т.д.). Неплохой обзор литературы об эффектах плоской vs прогрессивной шкалы, но сами результаты неудивительные: для бюджетно-нейтральной реформы положительное влияние на занятость и неравенство, околонулевое на ВВП.
