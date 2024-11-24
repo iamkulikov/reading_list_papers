@@ -1,6 +1,6 @@
 # Валютный рынок
 
-[<< Все статьи](../README.md)
+[\<\< Все статьи](../README.md)
 
 ### ["Exchange rate prediction redux: new models, new data, new currencies", Y. Cheung, M. Chinn et al.](https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp2018.en.pdf)
 
@@ -8,5 +8,6 @@
 
 ### ["The predictive power of equilibrium exchange rate models", Mi. Ca’ Zorzi et al](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2358~4382d88430.en.pdf)
 
+**Сравнивают прогнозную силу PPP, BEER и балансовой модели для курсов валют 10 богатых стран с 1975 по 2018 годы. Вневыборочно PPP всех разносит, но в отдельных странах можно подумать и про BEER .** В BEER вставляют относительный ВВП на душу (+), чистые иностранные активы (+) и условия торговли (+). В балансовой модели равновесный курс таков, чтобы баланс СТО стабилизировался на неком равновесном уровне при закрытых гэпах выпуска внутри страны и снаружи.
 
 ### ["What Drives the Exchange Rate?", Oleg Itskhoki & Dmitry Mukhin](https://www.nber.org/system/files/working_papers/w32008/w32008.pdf)
