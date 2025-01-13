@@ -4,6 +4,8 @@
 
 По темам: [Макромодели](reviews/models.md), [Методологии и статистика](reviews/meth.md), [Государство](reviews/fiscal.md), [Демография](reviews/demography.md), [Рынок труда и доходы](reviews/labor.md), [Кризисы](reviews/crisis.md), [Экономический рост](reviews/growth.md), [Инфляция](reviews/inflation.md), [Денежное обращение и ДКП](reviews/money.md), [Ожидания](reviews/expect.md), [Финстресс](reviews/FSI.md), [Кредитные риски](reviews/defaults.md), [FX](reviews/fx.md) [Макропруденциальное](reviews/macropru.md), [Глобальная торговля](reviews/trade.md), [Транспорт](reviews/transport.md), [Эконометрика](reviews/econometrics.md), [Сети и графы](reviews/network.md), [Природные ресурсы](reviews/nature.md), [Санкции](reviews/sanctions.md), [Регионы](reviews/regions.md), [История](reviews/history.md), [Институты](reviews/institutional.md), [Фан](reviews/fun.md), [Списки](reviews/reading_lists.md), [Написанное мной](reviews/my.md), [To-Do](reviews/todo.md)
 
+## 2025
+
 ## 2024
 
 [Наверх](#экономические-статьи)
